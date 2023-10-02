@@ -70,11 +70,11 @@ user_groups:
 - Director
 ---
 
-Seungjin Kim is the Capt. James McCARTy, Jr. and Cheryl E. McCARTy Head of the School of Nuclear Engineering at Purdue University. He has over twenty years of experience in thermal-hydraulics experiments and analysis. 
+Seungjin Kim is the Capt. James McCarthy, Jr. and Cheryl E. McCarthy Head of the School of Nuclear Engineering at Purdue University. He has over twenty years of experience in thermal-hydraulics experiments and analysis. 
 
 ## Poistions Held:
 
-Capt. James McCARTy, Jr. and Cheryl E. McCARTy Head of the School of Nuclear Engineering, Purdue University, 2017 - Present
+Capt. James McCarthy, Jr. and Cheryl E. McCarthy Head of the School of Nuclear Engineering, Purdue University, 2017 - Present
 
 Professor of Mechanical and Nuclear Engineering, The Pennsylvania State University, 2016-2017
 
