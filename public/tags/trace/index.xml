@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TRACE | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/trace/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/trace/index.xml" rel="self" type="application/rss+xml" />
+    <description>TRACE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/trace/</link>
+    </image>
+    
+    <item>
+      <title>Experiments for the Development of TRACE with Interfacial Area Transport Models</title>
+      <link>https://engineering.purdue.edu/ARTH/project/experiments-for-trace-and-iate/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/experiments-for-trace-and-iate/</guid>
+      <description>&lt;p&gt;The objective of the present research is to establish a database of local two-phase flow parameters in a high void fraction range of approximately 30% to 80% to support the development of the interfacial area transport models for the NRC’s thermal-hydraulics code TRACE. The interfacial area concentration, ai, is an important geometric parameter in two-phase flows, as it is directly related to the transfer of mass, momentum, and energy between the two phases. Thus, an accurate estimate of ai is critical to modeling two-phase flows.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-two-phase-flow-facility-at-the-advanced-multi-phase-flow-laboratory-at-penn-state&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/experiments-for-trace-and-iate/featured_huba376ed3ae3b47173ec5b7eab993b4a5_117007_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Two-phase flow facility at the Advanced Multi-Phase Flow Laboratory at Penn State&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/experiments-for-trace-and-iate/featured_huba376ed3ae3b47173ec5b7eab993b4a5_117007_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;878&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Two-phase flow facility at the Advanced Multi-Phase Flow Laboratory at Penn State
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

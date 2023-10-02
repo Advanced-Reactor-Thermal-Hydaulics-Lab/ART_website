@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Finch | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/j.-finch/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/j.-finch/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Finch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>J. Finch</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/j.-finch/</link>
+    </image>
+    
+    <item>
+      <title>Flow regime identification of co-current downward two-phase flow with neural network approach</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2002_goda_et_al_2/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2002_goda_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local interfacial structure in downward two-phase bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2002_goda_et_al/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2002_goda_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

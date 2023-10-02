@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Yeric | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/g.-yeric/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/g.-yeric/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Yeric</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 1995 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>G. Yeric</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/g.-yeric/</link>
+    </image>
+    
+    <item>
+      <title>Degradation of insulators in Silicon Selective Epitaxial Growth (SEG) ambient</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/1995_bashir_et_al/</link>
+      <pubDate>Fri, 01 Sep 1995 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/1995_bashir_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

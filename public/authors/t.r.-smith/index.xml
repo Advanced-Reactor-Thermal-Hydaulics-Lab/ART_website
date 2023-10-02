@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.R. Smith | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/t.r.-smith/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/t.r.-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>T.R. Smith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>T.R. Smith</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/t.r.-smith/</link>
+    </image>
+    
+    <item>
+      <title>Interfacial structure of air-water two-phase flow in a relatively large pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2003_sun_et_al/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2003_sun_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area of bubbly flow in a relatively large diameter pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2002_sun_et_al_2/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2002_sun_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local liquid velocity measurements in air-water bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2002_sun_et_al/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2002_sun_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.O. Marshall | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/s.o.-marshall/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/s.o.-marshall/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.O. Marshall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>S.O. Marshall</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/s.o.-marshall/</link>
+    </image>
+    
+    <item>
+      <title>Geometric effects of 90-degree elbow in the development of interfacial structures in horizontal bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2007_kim_et_al/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2007_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

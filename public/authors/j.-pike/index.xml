@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Pike | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/j.-pike/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/j.-pike/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Pike</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>J. Pike</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/j.-pike/</link>
+    </image>
+    
+    <item>
+      <title>Experiments and CFD simulations of the LBE loop in HYST: A new concept for irradiation experiments in a fast-reactor-like environment</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2022_kong_et_al/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2022_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

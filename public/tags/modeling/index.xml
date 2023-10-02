@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modeling | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/modeling/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Modeling</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/modeling/</link>
+    </image>
+    
+    <item>
+      <title>Wire-Wrapped Rod Bundle Experiments and Pressure Drop Modeling</title>
+      <link>https://engineering.purdue.edu/ARTH/project/wire-wrapped-rod-bundles/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/wire-wrapped-rod-bundles/</guid>
+      <description>&lt;p&gt;Wire-wrapped rod bundles are often proposed for advanced nuclear reactors operating in a fast neutron spectrum, as designers seek to minimize neutron scattering by tightly packing the fuel pins into a hexagonal lattice. Bundles with many rods have extensively been studied as representative of large fuel assemblies, however far fewer experiments have investigated 7-pin bundles. The Versatile Test Reactor (VTR) sodium cartridge loop proposes to use a 7-pin bundle as its experimental core region, highlighting the need for additional data and models.&lt;/p&gt;
+&lt;p&gt;This work seeks to establish a better understanding of the pressure drop in 7-pin wire-wrapped rod bundles through scaled experiments and a novel pressure drop model. A scaling analysis is first performed to demonstrate the applicability of water experiments to the VTR sodium cartridge loop, before an experimental test facility is designed and constructed. Experiments are then performed to determine the pressure drop.&lt;/p&gt;
+&lt;p&gt;Current models are able to predict the data well, but are complex and can be difficult to use.  A comparatively simpler model has been developed, based on exact laminar solutions of a simplified rod bundle, which also offers a theoretical lower bound for the pressure drop. The proposed model compares well with the existing experimental database, able to predict bundle friction factor with an average absolute percent difference of 10.8%. This accuracy is also similar to existing correlations.&lt;/p&gt;
+&lt;p&gt;Featured image from &amp;ldquo;The upgraded Cheng and Todreas correlation for pressure drop in hexagonal wire-wrapped rod bundles&amp;rdquo; by S.K. Chen, Y.M. Chen, &amp;amp; N.E. Todreas&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jet Impingement Model Evaluation and Development</title>
+      <link>https://engineering.purdue.edu/ARTH/project/jet-impingement/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/jet-impingement/</guid>
+      <description>&lt;p&gt;When jet impingement happens, the fluid within the high-energy piping system is discharged into the surrounding environment as a high energy jet, leading to extreme load that can cause malfunction and significant damage to the surrounding structures, systems, and components (SSCs). While the standard jet impingement model in ANSI/ANS-58.2 (1988) have been developed to design protective systems to mitigate the damage, many non-conservatisms in these models have been specified. Jet impingement model evaluation and development is therefore necessary for the safety analysis and design of nuclear power plants.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-of-expanding-jet-for-analysis&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/jet-impingement/featured_hu106bff755b45aefbb81dcf09ca6d4ede_38016_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Schematic of expanding jet for analysis&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/jet-impingement/featured_hu106bff755b45aefbb81dcf09ca6d4ede_38016_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1133&#34; height=&#34;878&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematic of expanding jet for analysis
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The objective of the present research is to perform model evaluation of ANSI/ANS-58.2 (1988) and to provide guidance for model improvement. A comprehensive literature review was first performed to establish an experimental databank for key parameters in jet impingement, such as pressure distribution and critical mass flux. Both free and impinging jets for subcooled water, saturated water/two-phase, and saturated steam conditions are investigated. Using the experimental databank, the standard jet impingement model was evaluated, and model development guidance was provided to reach more accurate prediction of the jet impingement phenomena.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

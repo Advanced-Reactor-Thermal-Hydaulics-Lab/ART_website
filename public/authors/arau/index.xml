@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/arau/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/arau/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/arau/</link>
+    </image>
+    
+    <item>
+      <title>Numerical Investigation of Flow Characteristics through Simple Support Grids in a 1 x 3 Rod Bundle</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2019_karaman_et_al/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2019_karaman_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust Image Analysis Technique for the Study of Horizontal Air-Water Plug Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2019_kong_et_al/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2019_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study of Horizontal Air-Water Plug-to-Slug Transition Flow in Different Pipe Sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_4/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of interfacial structure of horizontal air-water two-phase flow in a 101.6 mm ID pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_jin_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_jin_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of interfacial structure of horizontal air-water two-phase flow in a 101.6 mm ID pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_5/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation on the effects of a spacer grid on single- and two-phase flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2014_wheeler_et_al/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2014_wheeler_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

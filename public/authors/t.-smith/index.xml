@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Smith | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/t.-smith/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/t.-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Smith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 May 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>T. Smith</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/t.-smith/</link>
+    </image>
+    
+    <item>
+      <title>Bubble transport in a small diameter pipe flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2001_kim_et_al_3/</link>
+      <pubDate>Sun, 27 May 2001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2001_kim_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport in large diameter pipe: 4&#39;&#39; and 6&#39;&#39;</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2001_smith_et_al/</link>
+      <pubDate>Sun, 27 May 2001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2001_smith_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport of bubbly flow in a relatively large pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2000_sun_et_al_2/</link>
+      <pubDate>Tue, 02 May 2000 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2000_sun_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Measurement of Liquid Velocity in Bubbly Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2000_sun_et_al/</link>
+      <pubDate>Sun, 02 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2000_sun_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

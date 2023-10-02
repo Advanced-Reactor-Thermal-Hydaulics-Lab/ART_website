@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/machine-learning/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Machine Learning</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Objective Flow Regime Identification for Inclined Two-Phase Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/project/inclined-flow-regime-identification/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/inclined-flow-regime-identification/</guid>
+      <description>&lt;p&gt;Two-phase flow regimes are categorizations of flow patterns based on the geometric characteristics of the interface between phases. Flow regimes are widely implemented in thermal-hydraulics and reactor safety simulation tools. It is therefore crucial to properly classify flow conditions into their respective regimes to design and operate multiphase flow systems. The traditional approach to flow regime classification entails recording two-phase flows in transparent pipes with high-speed video cameras and making subjective judgements about the flow based on visualization. This subjectivity is susceptible to error and disagreement between researchers. Additionally, pipe inclination introduces additional complexity that makes visual classification of flow regimes challenging. Recent work with machine learning has endeavored to reduce the subjectivity involved in flow regime identification and classification efforts.&lt;/p&gt;
+&lt;p&gt;ART has developed a modular structure of k-means algorithms designed to objectively organize horizontal, inclined, and vertical flow conditions into flow regimes using an experimental database obtained with the separate effects test facility.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-flow-chart-of-the-hierarchical-structure-b-bubbly-p-plug-st-stratified-s-slug-ct-churn-turbulent-sw-stratified-wavy-a-annular&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-flow-regime-identification/Figure_huc481276552365ce4ad34e266c5e05428_23895_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Flow chart of the hierarchical structure (B: Bubbly, P: Plug, ST: Stratified, S: Slug, CT: Churn-Turbulent, SW: Stratified-Wavy, A: Annular)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-flow-regime-identification/Figure_huc481276552365ce4ad34e266c5e05428_23895_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;524&#34; height=&#34;275&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Flow chart of the hierarchical structure (B: Bubbly, P: Plug, ST: Stratified, S: Slug, CT: Churn-Turbulent, SW: Stratified-Wavy, A: Annular)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Images of flow conditions at different angles are shown in Figure 2, highlighting the changes to the interfacial structure that can occur with respect to angle.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-hierarchical-algorithm-two-phase-flow-regime-map-results-a-90-upward-b-80-upward-c-60-upward-d-30-upward-e-0-compared-to-visualization&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-flow-regime-identification/Figure2_huc481276552365ce4ad34e266c5e05428_59535_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Hierarchical algorithm two-phase flow regime map results: (a) 90° upward, (b) 80° upward, (c) 60° upward, (d) 30° upward, (e) 0° compared to visualization&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-flow-regime-identification/Figure2_huc481276552365ce4ad34e266c5e05428_59535_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1022&#34; height=&#34;521&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Hierarchical algorithm two-phase flow regime map results: (a) 90° upward, (b) 80° upward, (c) 60° upward, (d) 30° upward, (e) 0° compared to visualization
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Plug Bubbles by Segmentation of Images using a Residual Neural Network</title>
+      <link>https://engineering.purdue.edu/ARTH/project/bubble-image-neural-network/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/bubble-image-neural-network/</guid>
+      <description>&lt;p&gt;Plug and slug flow regimes are known for their bullet shapes. Identifying the shape the of the plug bubble is crucial to understanding the pressure drop and heat transfer capacity of the the fluid. The conventional solution to analyze plug bubbles is to use image analysis techniques. These techniques are useful, but can be computationally expensive, and the diversity of methods leads to diversity of errors.&lt;/p&gt;
+&lt;p&gt;Using previously acquired data from videos of plug bubbles passing through a mirror box in order to capture the top and and the side of the bubble at once. A residual convolutional neural network was trained to try and mimic the plug/slug bubble identification techniques. Once trained, this neural method was much less computationally expensive than the image analysis techniques, and even reduces some of the errors present in the original techniques. A comparison of the neural network identification to raw video is shown in Figure 1.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

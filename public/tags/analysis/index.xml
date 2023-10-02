@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/analysis/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Analysis</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/analysis/</link>
+    </image>
+    
+    <item>
+      <title>Jet Impingement Model Evaluation and Development</title>
+      <link>https://engineering.purdue.edu/ARTH/project/jet-impingement/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/jet-impingement/</guid>
+      <description>&lt;p&gt;When jet impingement happens, the fluid within the high-energy piping system is discharged into the surrounding environment as a high energy jet, leading to extreme load that can cause malfunction and significant damage to the surrounding structures, systems, and components (SSCs). While the standard jet impingement model in ANSI/ANS-58.2 (1988) have been developed to design protective systems to mitigate the damage, many non-conservatisms in these models have been specified. Jet impingement model evaluation and development is therefore necessary for the safety analysis and design of nuclear power plants.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-of-expanding-jet-for-analysis&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/jet-impingement/featured_hu106bff755b45aefbb81dcf09ca6d4ede_38016_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Schematic of expanding jet for analysis&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/jet-impingement/featured_hu106bff755b45aefbb81dcf09ca6d4ede_38016_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1133&#34; height=&#34;878&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematic of expanding jet for analysis
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The objective of the present research is to perform model evaluation of ANSI/ANS-58.2 (1988) and to provide guidance for model improvement. A comprehensive literature review was first performed to establish an experimental databank for key parameters in jet impingement, such as pressure distribution and critical mass flux. Both free and impinging jets for subcooled water, saturated water/two-phase, and saturated steam conditions are investigated. Using the experimental databank, the standard jet impingement model was evaluated, and model development guidance was provided to reach more accurate prediction of the jet impingement phenomena.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

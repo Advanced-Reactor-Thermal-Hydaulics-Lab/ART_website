@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Tsoukalas | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/l.-tsoukalas/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/l.-tsoukalas/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Tsoukalas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Nov 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>L. Tsoukalas</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/l.-tsoukalas/</link>
+    </image>
+    
+    <item>
+      <title>New objective approaches for characterization of interfacial structures in two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c1998_ishii_et_al/</link>
+      <pubDate>Sun, 15 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c1998_ishii_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

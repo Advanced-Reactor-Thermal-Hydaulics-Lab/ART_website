@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.R. Buchanan, Jr. | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/j.r.-buchanan-jr./</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/j.r.-buchanan-jr./index.xml" rel="self" type="application/rss+xml" />
+    <description>J.R. Buchanan, Jr.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jul 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>J.R. Buchanan, Jr.</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/j.r.-buchanan-jr./</link>
+    </image>
+    
+    <item>
+      <title>Multi-objective optimization applied to the one group interfacial area transport equations</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2007_buchanan_et_al/</link>
+      <pubDate>Mon, 09 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2007_buchanan_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

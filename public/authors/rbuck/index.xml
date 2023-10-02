@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/rbuck/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/rbuck/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/rbuck/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of local interfacial structures around 45 and 90 degree elbows in the horizontal bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2008_yadav_et_al/</link>
+      <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2008_yadav_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling study of a spacer grid for two-phase flow separate effects test facility</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2008_buck_et_al/</link>
+      <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2008_buck_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

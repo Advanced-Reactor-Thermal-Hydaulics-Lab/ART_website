@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horizontal | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/horizontal/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/horizontal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Horizontal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Horizontal</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/horizontal/</link>
+    </image>
+    
+    <item>
+      <title>Large Diameter Horizontal Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/project/large-diameter-horizontal-two-phase-flow/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/large-diameter-horizontal-two-phase-flow/</guid>
+      <description>&lt;p&gt;In order to improve the predictions of two-phase flow phenomena in various flow configurations, additional accurate experimental database and closure relations are required. Many two-phase flow experiments have been performed in vertical two-phase flow. However, there has been little investigation of horizontal flows compared with vertical flows. The highly asymmetric void distribution in horizontal flow, which is due to the effect of the buoyancy force, adds more difficulties to both experimental and analytical studies. As such, previous work on vertical flow cannot be directly extended to horizontal flow.&lt;/p&gt;
+&lt;p&gt;Although there have been research to investigate horizontal two-phase flow through experiments, database required for accurate model development in horizontal two-phase flow is still limited. Furthermore, most of the previous work focusing on investigation of dispersed bubbly flow in small diameter pipes (10 mm to 50 mm). As such, systematic investigation on scalability of the experimental data and closure relations developed in small diameter pipes is indispensable for large diameter horizontal two-phase flow analysis. The highly asymmetric distribution of the dispersed phase in horizontal two-phase flow makes the scalability study more important compared to vertical two-phase flow, because the ratio of characteristic bubble length scale to pipe diameter may govern the severity of the asymmetry in bubble distribution and the flow transition criteria.&lt;/p&gt;
+&lt;p&gt;The present work establishes a 4-in I.D. horizontal, adiabatic, two-phase flow test facility to: (1) perform detailed flow visualizations; (2) investigate the interfacial structures and flow regime transition criteria; (3) establish an extensive database in bubbly, plug and slug flow regimes in relation to future transition criteria modeling efforts; (4) investigate the scalability of the flow regime transition criteria in horizontal two-phase flow.&lt;/p&gt;
+&lt;p&gt;The test facility is designed to be capable of performing experiments in a comprehensive range of horizontal two-phase flow conditions including bubbly, plug, slug, stratified, stratified-wavy, and annular flow regimes. The test section is designed to provide an ideal condition for flow visualization and for the application of four-sensor conductivity probe. A high speed movie camera capable of capturing images at up to 32,000 frames per second is available and will be mployed to perform flow visualization studies. Figure 1 shows a simple schematic diagram of the large diameter horizontal two-phase flow test facility. Figure 2 shows the photographic images of the two-phase injector and reducer for the test facility.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-diagram-top-view-of-the-4-in-id-horizontal-two-phase-flow-test-facility-arrows-denote-flow-direction&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/large-diameter-horizontal-two-phase-flow/featured_hu418e7e151e2e39e0fc6b4098f477efe6_48419_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Schematic diagram (Top view) of the 4-in ID horizontal two-phase flow test facility (arrows denote flow direction).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/large-diameter-horizontal-two-phase-flow/featured_hu418e7e151e2e39e0fc6b4098f477efe6_48419_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1127&#34; height=&#34;495&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematic diagram (Top view) of the 4-in ID horizontal two-phase flow test facility (arrows denote flow direction).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-photographic-images-of-the-two-phase-injector-left-and-middle-and-reducer-right-for-the-4-in-id-horizontal-two-phase-flow-test-facility&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/large-diameter-horizontal-two-phase-flow/Figure2_hu96af9775aafaeeea6b6a2fbd149f1682_64614_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Photographic images of the two-phase injector (Left and Middle) and reducer (Right) for the 4-in ID horizontal two-phase flow test facility.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/large-diameter-horizontal-two-phase-flow/Figure2_hu96af9775aafaeeea6b6a2fbd149f1682_64614_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;742&#34; height=&#34;295&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Photographic images of the two-phase injector (Left and Middle) and reducer (Right) for the 4-in ID horizontal two-phase flow test facility.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

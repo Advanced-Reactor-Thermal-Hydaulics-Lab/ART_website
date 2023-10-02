@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/jwheeler/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/jwheeler/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/jwheeler/</link>
+    </image>
+    
+    <item>
+      <title>Experiments on the effects of a spacer grid in air-water two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2015_wheeler_et_al/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2015_wheeler_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments on the effects of a spacer grid in air-water two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2014_wheeler_et_al/</link>
+      <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2014_wheeler_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation on the effects of a spacer grid on single- and two-phase flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2014_wheeler_et_al/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2014_wheeler_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of spacer grid on flow regime transition in a 1x3 bundle two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2013_wheeler_et_al/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2013_wheeler_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

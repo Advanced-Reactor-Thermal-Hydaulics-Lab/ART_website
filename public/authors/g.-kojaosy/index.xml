@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Kojaosy | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/g.-kojaosy/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/g.-kojaosy/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Kojaosy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>G. Kojaosy</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/g.-kojaosy/</link>
+    </image>
+    
+    <item>
+      <title>Two-phase Minor Loss in Horizontal Bubbly Flow with Elbows: 45-degree and 90-degree Elbows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2010_kim_et_al/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2010_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

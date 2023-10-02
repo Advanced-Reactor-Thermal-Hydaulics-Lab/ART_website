@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced Reactors | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/advanced-reactors/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/advanced-reactors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Advanced Reactors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Advanced Reactors</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/advanced-reactors/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid Subcritical Testbed (HYST) Facility Design and Data Analysis</title>
+      <link>https://engineering.purdue.edu/ARTH/project/niowave-hyst/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/niowave-hyst/</guid>
+      <description>&lt;p&gt;In order to develop novel and advanced fuels and materials for Generation IV reactors, an intense fast neutron environment is needed for testing.  Fast neutron fluxes greater than 1015 n/cm2s are required for radiation damage studies with significant displacements per atom (DPA), which are conventionally achieved with fast reactors.  However, since the shutdown of the Fast Flux Test Facility (FFTF), the United States (U.S.) has not had a fast-reactor-based neutron source.  To address this issue, Niowave, Inc. proposes to develop a HYbrid fast/thermal core configuration Subcritical Testbed (HYST) to provide a testing capability for novel designs of fuels and materials in a fast reactor like environment.  The fast core region of the testbed is cooled by liquid LBE and can provide a sufficient volume for testing advanced nuclear reactor materials in a liquid metal environment.  Considering that the proposed subcritical testbed facility is not a reactor, it will be cheaper and faster to license that a reactor.  In order for HYST to be realized, however, the thermal-hydraulic analysis of the designed systems needs to be performed using experimental data.&lt;/p&gt;
+&lt;p&gt;In the current work, Purdue will assist Niowave, Inc. in test facility design and data analysis. This includes providing design considerations such as test loop components and setup, implementing various instruments and assisting Niowave, Inc. in developing plans for experiments such as test procedures, test conditions, and test plans.  In parallel, a CFD simulation on the test loop will be performed to investigate the hydrodynamics and heat transfer characteristics of the system.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

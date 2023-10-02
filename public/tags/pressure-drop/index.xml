@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pressure Drop | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/pressure-drop/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/pressure-drop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pressure Drop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Pressure Drop</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/pressure-drop/</link>
+    </image>
+    
+    <item>
+      <title>Horizontal Bubbly Two-Phase Flow with Flow Restrictions</title>
+      <link>https://engineering.purdue.edu/ARTH/project/horizontal-bubbly-with-restrictions/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/horizontal-bubbly-with-restrictions/</guid>
+      <description>&lt;p&gt;The nuclear reactor coolant system is composed of various flow geometries and restrictions, including both vertical and horizontal pipes, interconnected with flow restrictions such as elbows and tees. While the knowledge base of two-phase flow regime transition and interfacial area transport in these conditions is quite limited, they play key roles in the pressure drop and heat transfer capability of the fluid.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-diagram-of-the-horizontal-experimental-facility&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/featured_hufbe9e0f5942cbb8293aaef61148af427_357006_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Schematic diagram of the horizontal experimental facility.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/featured_hufbe9e0f5942cbb8293aaef61148af427_357006_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;370&#34; height=&#34;321&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematic diagram of the horizontal experimental facility.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This study performed analysis upon previously acquired data in the horizontal two-phase flow through channels with various flow restrictions, collected at the University of Wisconsin-Milwaukee. The experimental facility, shown in Figure 1 was composed of 50.3 mm ID glass pipes with both a 90° and 45° horizontal elbow installed. To evaluate an interfacial area transport equation for the horizontal bubbly flow, a required pressure drop model that accounted for the two-phase minor loss was developed, and the results shown for the 90° elbow in Figure 2. Finally, a preliminary interfacial area transport equation applicable to horizontal bubbly flow with either a 90° and 45°elbow restriction was developed with some characteristic results shown in Figure 3.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-predictions-of-the-developed-pressure-drop-model-to-account-for-the-minor-loss-results-of-90-elbow-with-2-error-bars-shown&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/Figure2_hud3ce5c535823464da3efdc837bc1d4ae_275510_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Predictions of the developed pressure drop model to account for the minor loss. Results of 90° elbow with ±2% error bars shown.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/Figure2_hud3ce5c535823464da3efdc837bc1d4ae_275510_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;341&#34; height=&#34;269&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Predictions of the developed pressure drop model to account for the minor loss. Results of 90° elbow with ±2% error bars shown.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-predictions-of-the-developed-interfacial-area-transport-equation-for-horizontal-bubbly-flow-with-90-or-45-elbow-error-bars-shown-20&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/Figure3_hu82cb425fdb81370f029b3f46f41b3222_304854_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Predictions of the developed interfacial area transport equation for horizontal bubbly flow with 90° or 45° elbow. Error bars shown: ±20%.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/Figure3_hu82cb425fdb81370f029b3f46f41b3222_304854_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;508&#34; height=&#34;200&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Predictions of the developed interfacial area transport equation for horizontal bubbly flow with 90° or 45° elbow. Error bars shown: ±20%.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

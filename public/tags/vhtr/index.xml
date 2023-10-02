@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VHTR | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/vhtr/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/vhtr/index.xml" rel="self" type="application/rss+xml" />
+    <description>VHTR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Aug 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>VHTR</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/vhtr/</link>
+    </image>
+    
+    <item>
+      <title>Air-Ingress in VHTR</title>
+      <link>https://engineering.purdue.edu/ARTH/project/air-ingress-vhtr/</link>
+      <pubDate>Fri, 27 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/air-ingress-vhtr/</guid>
+      <description>&lt;p&gt;The objective of this research is to investigate the postulated Depressurized Loss of Forced Circulation (D-LOFC) event for Very High Temperature Gas-Cooled Reactors (VHTR). Accurately modeling this event is necessary for licensing the VHTR and currently no adequate experimental database exists to create or validate models for predicting D-LOFC behavior. In particular, the ingress of air into the reactor vessel which can oxidize the graphite structures.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-flow-exchange-visualization-in-horizontal-and-vertical-breaks&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/featured_hud09a2d74065a0092af4fe0dc350a9afe_357062_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Flow exchange visualization in horizontal and vertical breaks&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/featured_hud09a2d74065a0092af4fe0dc350a9afe_357062_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;561&#34; height=&#34;212&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Flow exchange visualization in horizontal and vertical breaks
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The purpose of the first portion of this research is to perform a scoping experiment to study the effects of break angle and break length-to-diameter ratio (L/D) on the exchange rate during the postulated scenario. Here, water and brine are used as simulant fluids, and flow visualization and density measurement experiments have been performed. The exchange rate is expressed in terms of a non-dimensional Froude number which scales the inertia with respect to the buoyancy. The results obtained are compared with previous studies as shown below.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-comparison-of-proposed-correlation-to-experimental-data&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/Figure2_hufccd007926fc8a4b20cbc3999cab3765_494574_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Comparison of proposed correlation to experimental data&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/Figure2_hufccd007926fc8a4b20cbc3999cab3765_494574_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;519&#34; height=&#34;317&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Comparison of proposed correlation to experimental data
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-comparison-of-average-froude-number-for-linear-region-with-previous-studies-&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/figure3_hu1a8c50f9205b1535b2afe4d9faa3a437_587574_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Comparison of average Froude number for linear region with previous studies&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/figure3_hu1a8c50f9205b1535b2afe4d9faa3a437_587574_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;544&#34; height=&#34;360&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Comparison of average Froude number for linear region with previous studies
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The purpose of the second portion of this research is to determine the time available for mitigative actions before the onset of natural circulation where the graphite oxidation increases.  The buoyancy-driven exchange stage of the air ingress phenomena will be simulated using a scaled VHTR vessel and the effect of break orientation (angle) and development length to break size (L/D) will be investigated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

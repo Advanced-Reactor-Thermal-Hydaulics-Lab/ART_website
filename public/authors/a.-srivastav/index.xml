@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Srivastav | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/a.-srivastav/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/a.-srivastav/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Srivastav</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>A. Srivastav</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/a.-srivastav/</link>
+    </image>
+    
+    <item>
+      <title>Void fraction measurement in two-phase flow process via symbolic dynamic filtering of ultrasonic signals</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_chakraborty_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_chakraborty_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

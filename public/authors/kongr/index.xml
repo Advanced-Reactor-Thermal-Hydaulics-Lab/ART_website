@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/kongr/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/kongr/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/kongr/</link>
+    </image>
+    
+    <item>
+      <title>Experiments and CFD simulations of the LBE loop in HYST: A new concept for irradiation experiments in a fast-reactor-like environment</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2022_kong_et_al/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2022_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Concept for Irradiation Experiments in Fast-Reactor Environment: CFD Simulation of the LBE Loop in HYST</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2021_kong_et_al_2/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2021_kong_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency of Plug/Slug Bubbles in Horizontal Air-Water Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2021_kong_et_al_1/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2021_kong_et_al_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress in two-phase flow modeling: interfacial area transport</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2021_kim_et_al/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2021_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD Simulation of the LBE Loop in the Hybrid Fast and Thermal Subcritical Testbed</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2020_kong_et_al/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2020_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD Simulations of the Sodium Cartridge Loop of the Versatile Test Reactor</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2020_quan_et_al/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2020_quan_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Analysis of the SFR Cartridge Loop</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2020_kong_et_al_2/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2020_kong_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study and CFD Design Tool Development for the Cartridge Loop in the Versatile Test Reactor (VTR)</title>
+      <link>https://engineering.purdue.edu/ARTH/project/versatile-test-reactor/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/versatile-test-reactor/</guid>
+      <description>&lt;p&gt;Generation IV fast reactors operate at high temperature (500~1000°C) and fast neutron spectrum environment. In order to develop novel and advanced fuels and materials for advanced reactors, an intense fast neutron environment is needed for testing. However, no fast-reactor-based neutron source is available in U.S. since the shutdown of Fast Flux Test Facility (FFTF) in 1990s. As such, the Versatile Test Reactor (VTR) program is established to accelerate the testing and qualification of the new designs of fuel and materials. In VTR, an internal cartridge loop design with flowing different coolants (e.g., liquid metal, gas, and molten salt) is adopted to provide appropriate in-core environment. This design can isolate the test vehicle coolant loop from the primary reactor coolant to maximize the testing capability.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-schematic-of-the-vtr-cartridge-loop&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/versatile-test-reactor/featured_hue55cf0e9c218d7d7aeb7a34c9c6d24c3_34221_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A schematic of the VTR cartridge loop&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/versatile-test-reactor/featured_hue55cf0e9c218d7d7aeb7a34c9c6d24c3_34221_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;281&#34; height=&#34;504&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    A schematic of the VTR cartridge loop
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The objective of the present research is to develop a CFD design tool for the cartridge loop in VTR. A scaling analysis is first performed to investigate the feasibility of using water loop to replace sodium loop, while CFD simulation is performed to support scaling analysis and/or to improve the test facility design. Heat transfer experiments will be performed on the constructed test facilities to investigate the overall functionality and performance of the cartridge loop at different boundary conditions. Test conditions may include steady-state parametric studies on flow rates and core power, and transient studies on increasing core power, loss of flow, etc. In the end, the CFD simulation results will be evaluated based on the obtained experimental data and a CFD design tool will be developed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid Subcritical Testbed (HYST) Facility Design and Data Analysis</title>
+      <link>https://engineering.purdue.edu/ARTH/project/niowave-hyst/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/niowave-hyst/</guid>
+      <description>&lt;p&gt;In order to develop novel and advanced fuels and materials for Generation IV reactors, an intense fast neutron environment is needed for testing.  Fast neutron fluxes greater than 1015 n/cm2s are required for radiation damage studies with significant displacements per atom (DPA), which are conventionally achieved with fast reactors.  However, since the shutdown of the Fast Flux Test Facility (FFTF), the United States (U.S.) has not had a fast-reactor-based neutron source.  To address this issue, Niowave, Inc. proposes to develop a HYbrid fast/thermal core configuration Subcritical Testbed (HYST) to provide a testing capability for novel designs of fuels and materials in a fast reactor like environment.  The fast core region of the testbed is cooled by liquid LBE and can provide a sufficient volume for testing advanced nuclear reactor materials in a liquid metal environment.  Considering that the proposed subcritical testbed facility is not a reactor, it will be cheaper and faster to license that a reactor.  In order for HYST to be realized, however, the thermal-hydraulic analysis of the designed systems needs to be performed using experimental data.&lt;/p&gt;
+&lt;p&gt;In the current work, Purdue will assist Niowave, Inc. in test facility design and data analysis. This includes providing design considerations such as test loop components and setup, implementing various instruments and assisting Niowave, Inc. in developing plans for experiments such as test procedures, test conditions, and test plans.  In parallel, a CFD simulation on the test loop will be performed to investigate the hydrodynamics and heat transfer characteristics of the system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Separate-effect experiments and modeling for two-phase flow under geometric restrictions</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2020_kim_kong/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2020_kim_kong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Jet Impingement in High-energy Piping System</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2020_kong_et_al/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2020_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jet Impingement Model Evaluation and Development</title>
+      <link>https://engineering.purdue.edu/ARTH/project/jet-impingement/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/jet-impingement/</guid>
+      <description>&lt;p&gt;When jet impingement happens, the fluid within the high-energy piping system is discharged into the surrounding environment as a high energy jet, leading to extreme load that can cause malfunction and significant damage to the surrounding structures, systems, and components (SSCs). While the standard jet impingement model in ANSI/ANS-58.2 (1988) have been developed to design protective systems to mitigate the damage, many non-conservatisms in these models have been specified. Jet impingement model evaluation and development is therefore necessary for the safety analysis and design of nuclear power plants.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-of-expanding-jet-for-analysis&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/jet-impingement/featured_hu106bff755b45aefbb81dcf09ca6d4ede_38016_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Schematic of expanding jet for analysis&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/jet-impingement/featured_hu106bff755b45aefbb81dcf09ca6d4ede_38016_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1133&#34; height=&#34;878&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematic of expanding jet for analysis
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The objective of the present research is to perform model evaluation of ANSI/ANS-58.2 (1988) and to provide guidance for model improvement. A comprehensive literature review was first performed to establish an experimental databank for key parameters in jet impingement, such as pressure distribution and critical mass flux. Both free and impinging jets for subcooled water, saturated water/two-phase, and saturated steam conditions are investigated. Using the experimental databank, the standard jet impingement model was evaluated, and model development guidance was provided to reach more accurate prediction of the jet impingement phenomena.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Plug Bubbles by Segmentation of Images using a Residual Neural Network</title>
+      <link>https://engineering.purdue.edu/ARTH/project/bubble-image-neural-network/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/bubble-image-neural-network/</guid>
+      <description>&lt;p&gt;Plug and slug flow regimes are known for their bullet shapes. Identifying the shape the of the plug bubble is crucial to understanding the pressure drop and heat transfer capacity of the the fluid. The conventional solution to analyze plug bubbles is to use image analysis techniques. These techniques are useful, but can be computationally expensive, and the diversity of methods leads to diversity of errors.&lt;/p&gt;
+&lt;p&gt;Using previously acquired data from videos of plug bubbles passing through a mirror box in order to capture the top and and the side of the bubble at once. A residual convolutional neural network was trained to try and mimic the plug/slug bubble identification techniques. Once trained, this neural method was much less computationally expensive than the image analysis techniques, and even reduces some of the errors present in the original techniques. A comparison of the neural network identification to raw video is shown in Figure 1.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relative Motion between Phases in Horizontal Gas Dispersed Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2019_kong_et_al/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2019_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust Image Analysis Technique for the Study of Horizontal Air-Water Plug Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2019_kong_et_al/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2019_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristic Effects of Pipe Size on Horizontal Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2018_kong_et_al_3/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2018_kong_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drift-Flux Analysis for Downward Air-Water Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2018_zhu_et_al/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2018_zhu_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drift-flux Analysis for Horizontal Two-phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2018_kong_et_al/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2018_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial Area Transport in Horizontal Bubbly Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2018_kong_et_al_2/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2018_kong_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Pipe Size on Horizontal Two-Phase Flow: Flow Regimes, Pressure Drop, Two-Phase Flow Parameters, and Drift-Flux Analysis</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study of Horizontal Air-Water Plug-to-Slug Transition Flow in Different Pipe Sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_4/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of interfacial structure of horizontal air-water two-phase flow in a 101.6 mm ID pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_5/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frictional pressure drop analysis for horizontal and vertical air-water two-phase flows in different pipe sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_lu_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_lu_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial Area Transport Models for Horizontal Air-Water Bubbly Flow in Different Pipe Sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Void Fraction Prediction and One-Dimensional Drift-Flux Analysis for Horizontal Two-Phase Flow in Different Pipe Sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of horizontal air-water two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2017_kong_kim/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2017_kong_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation of horizontal air–water bubbly-to-plug and bubbly-to-slug transition flows in a 3.81 cm ID pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2017_kong_et_al/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2017_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drift-flux Analysis in Horizontal Two-phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2016_kong_et_al_4/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2016_kong_et_al_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Analysis for Plug Bubble in Horizontal Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2016_kong_et_al_3/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2016_kong_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study of Horizontal Air-water Plug-to-Slug Transition Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2016_kong_et_al_2/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2016_kong_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of interfacial area transport models for horizontal bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2016_kong_et_al/</link>
+      <pubDate>Sun, 12 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2016_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Studies on Multi-Sensor Conductivity Probe Measurement Technique for Two-phase Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2016_worosz_et_al/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2016_worosz_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments in horizontal bubbly-to-plug and bubbly-to-slug transition two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2015_kong_kim_2/</link>
+      <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2015_kong_kim_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of horizontal air-water two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2015_kong_kim/</link>
+      <pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2015_kong_kim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

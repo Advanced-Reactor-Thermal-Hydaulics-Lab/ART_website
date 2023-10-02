@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/jtalley/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/jtalley/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/jtalley/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of horizontal air-water two-phase flow in a round pipe, Part I: Flow visualization</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2015_talley_et_al_2/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2015_talley_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of horizontal air-water two-phase flow in a round pipe, Part II: Measurement of local two-phase parameters in bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2015_talley_et_al/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2015_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of bubble interactions on the prediction of interfacial area in TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2013_talley_et_al/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2013_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separate effects experiments for air-ingress in helium filled vessel</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2013_kim_et_al/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2013_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement of interfacial structures in horizontal air-water bubbly flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2012_talley_et_al/</link>
+      <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2012_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the prediction of horizontal bubbly flows using the interfacial area transport equation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2012_talley_kim/</link>
+      <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2012_talley_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictions of one-group interfacial area transport in TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2012_worosz_et_al/</link>
+      <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2012_worosz_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the two-group interfacial area transport equation in TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2011_worosz_et_al/</link>
+      <pubDate>Sun, 30 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2011_worosz_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of adiabatic bubbly flows in TRACE using the interfacial area transport equation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2011_talley_et_al/</link>
+      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2011_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separate-effects experiment on the hydrodynamics of air ingress for the very high temperature reactor</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2011_kim_et_al_2/</link>
+      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2011_kim_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictions of Bubbly Flow in Combinatorial Channels with TRACE using the Interfacial Area Transport Equation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2011_kim_et_al/</link>
+      <pubDate>Sun, 26 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2011_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation and evaluation of one-group interfacial area transport in TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2011_talley_et_al/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2011_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bubbly Flow Predictions in TRACE Using One-Group Interfacial Area Transport Equation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2010_kim_et_al/</link>
+      <pubDate>Sun, 07 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2010_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of 90-Degree Vertical Elbow on Interfacial Structures in Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2010_kim_et_al_2/</link>
+      <pubDate>Sun, 07 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2010_kim_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Geometric Parameters on Lock Exchange and Buoyancy Driven Exchange Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2010_sarangi_et_al/</link>
+      <pubDate>Sun, 13 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2010_sarangi_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRACE with Dynamic Model for Interfacial Area Concentration Prediction</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2010_talley_et_al_2/</link>
+      <pubDate>Sun, 13 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2010_talley_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification and Validation for Nuclear Systems Analysis Workshop II</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2010_talley_et_al/</link>
+      <pubDate>Mon, 24 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2010_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Local Interfacial Structures Around 90 and 45-Degree Elbows in Horizontal Bubbly Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2010_yadav_et_al/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2010_yadav_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horizontal bubbly flow with elbow restrictions: Interfacial area transport modeling</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2010_talley_kim/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2010_talley_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Two-Phase Flow Parameters across 45- and 90-degree Elbows in Horizontal Bubbly Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2009_yadav_et_al_3/</link>
+      <pubDate>Sun, 15 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2009_yadav_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric effects of a 90-degree vertical elbow in two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2009_yadav_et_al/</link>
+      <pubDate>Sun, 15 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2009_yadav_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of One-Group Interfacial Area Transport Equation into TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al_4/</link>
+      <pubDate>Sun, 15 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of a Combinatorial Round Pipe Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2009_yadav_et_al_2/</link>
+      <pubDate>Sun, 14 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2009_yadav_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Geometric Parameters on Buoyancy Driven Exchange Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al_3/</link>
+      <pubDate>Sun, 14 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of One-Group Interfacial Area Transport Equation into TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al_2/</link>
+      <pubDate>Sun, 14 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objective Classification of Two-Phase Flow Regimes via Ultrasonic Signals</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al/</link>
+      <pubDate>Sun, 14 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric effects of 45-degree elbow in horizontal air-water bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_talley_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Void fraction measurement in two-phase flow process via symbolic dynamic filtering of ultrasonic signals</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_chakraborty_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_chakraborty_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of local interfacial structures around 45 and 90 degree elbows in the horizontal bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2008_yadav_et_al/</link>
+      <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2008_yadav_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport in horizontal bubbly flow with elbow restrictions</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2008_talley_et_al/</link>
+      <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2008_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric effects of 45-degree elbow in horizontal air-water bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2007_talley_et_al/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2007_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

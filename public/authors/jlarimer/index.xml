@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/jlarimer/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/jlarimer/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/jlarimer/</link>
+    </image>
+    
+    <item>
+      <title>Frictional pressure drop analysis for horizontal and vertical air-water two-phase flows in different pipe sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_lu_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_lu_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Q. Zhu | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/q.-zhu/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/q.-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Q. Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Q. Zhu</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/q.-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Relative Motion between Phases in Horizontal Gas Dispersed Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2019_kong_et_al/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2019_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drift-Flux Analysis for Downward Air-Water Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2018_zhu_et_al/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2018_zhu_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drift-flux Analysis for Horizontal Two-phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2018_kong_et_al/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2018_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Void Fraction Prediction and One-Dimensional Drift-Flux Analysis for Horizontal Two-Phase Flow in Different Pipe Sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

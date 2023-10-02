@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Hibiki | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/t.-hibiki/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/t.-hibiki/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Hibiki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>T. Hibiki</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/t.-hibiki/</link>
+    </image>
+    
+    <item>
+      <title>Interfacial area transport equation and implementation into two-fluid model</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_ishii_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_ishii_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axial development of interfacial structure of vertical downward bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2005_hibiki_et_al/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2005_hibiki_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of vertical downward bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_hibiki_et_al/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_hibiki_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-dimensional drift-flux model for downward two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2003_hibiki_et_al/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2003_hibiki_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drift-Flux Model for Downward Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2003_goda_et_al/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2003_goda_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study on interfacial area transport of vertical downward bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2003_hibiki_et_al/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2003_hibiki_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

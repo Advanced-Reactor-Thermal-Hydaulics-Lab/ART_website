@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Guo | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/t.-guo/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/t.-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>T. Guo</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/t.-guo/</link>
+    </image>
+    
+    <item>
+      <title>Two-phase Minor Loss in Horizontal Bubbly Flow with Elbows: 45-degree and 90-degree Elbows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2010_kim_et_al/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2010_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric effects of 45-degree elbow in horizontal air-water bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_talley_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric effects of 45-degree elbow in horizontal air-water bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2007_talley_et_al/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2007_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-phase minor loss due to the 45-degree elbow in horizontal bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2007_kim_et_al/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2007_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

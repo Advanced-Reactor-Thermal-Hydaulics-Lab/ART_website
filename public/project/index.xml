@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/project/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Projects</title>
+      <link>https://engineering.purdue.edu/ARTH/project/</link>
+    </image>
+    
+    <item>
+      <title>Objective Flow Regime Identification for Inclined Two-Phase Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/project/inclined-flow-regime-identification/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/inclined-flow-regime-identification/</guid>
+      <description>&lt;p&gt;Two-phase flow regimes are categorizations of flow patterns based on the geometric characteristics of the interface between phases. Flow regimes are widely implemented in thermal-hydraulics and reactor safety simulation tools. It is therefore crucial to properly classify flow conditions into their respective regimes to design and operate multiphase flow systems. The traditional approach to flow regime classification entails recording two-phase flows in transparent pipes with high-speed video cameras and making subjective judgements about the flow based on visualization. This subjectivity is susceptible to error and disagreement between researchers. Additionally, pipe inclination introduces additional complexity that makes visual classification of flow regimes challenging. Recent work with machine learning has endeavored to reduce the subjectivity involved in flow regime identification and classification efforts.&lt;/p&gt;
+&lt;p&gt;ART has developed a modular structure of k-means algorithms designed to objectively organize horizontal, inclined, and vertical flow conditions into flow regimes using an experimental database obtained with the separate effects test facility.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-flow-chart-of-the-hierarchical-structure-b-bubbly-p-plug-st-stratified-s-slug-ct-churn-turbulent-sw-stratified-wavy-a-annular&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-flow-regime-identification/Figure_huc481276552365ce4ad34e266c5e05428_23895_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Flow chart of the hierarchical structure (B: Bubbly, P: Plug, ST: Stratified, S: Slug, CT: Churn-Turbulent, SW: Stratified-Wavy, A: Annular)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-flow-regime-identification/Figure_huc481276552365ce4ad34e266c5e05428_23895_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;524&#34; height=&#34;275&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Flow chart of the hierarchical structure (B: Bubbly, P: Plug, ST: Stratified, S: Slug, CT: Churn-Turbulent, SW: Stratified-Wavy, A: Annular)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Images of flow conditions at different angles are shown in Figure 2, highlighting the changes to the interfacial structure that can occur with respect to angle.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-hierarchical-algorithm-two-phase-flow-regime-map-results-a-90-upward-b-80-upward-c-60-upward-d-30-upward-e-0-compared-to-visualization&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-flow-regime-identification/Figure2_huc481276552365ce4ad34e266c5e05428_59535_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Hierarchical algorithm two-phase flow regime map results: (a) 90° upward, (b) 80° upward, (c) 60° upward, (d) 30° upward, (e) 0° compared to visualization&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-flow-regime-identification/Figure2_huc481276552365ce4ad34e266c5e05428_59535_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1022&#34; height=&#34;521&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Hierarchical algorithm two-phase flow regime map results: (a) 90° upward, (b) 80° upward, (c) 60° upward, (d) 30° upward, (e) 0° compared to visualization
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Wire-Wrapped Rod Bundle Experiments and Pressure Drop Modeling</title>
+      <link>https://engineering.purdue.edu/ARTH/project/wire-wrapped-rod-bundles/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/wire-wrapped-rod-bundles/</guid>
+      <description>&lt;p&gt;Wire-wrapped rod bundles are often proposed for advanced nuclear reactors operating in a fast neutron spectrum, as designers seek to minimize neutron scattering by tightly packing the fuel pins into a hexagonal lattice. Bundles with many rods have extensively been studied as representative of large fuel assemblies, however far fewer experiments have investigated 7-pin bundles. The Versatile Test Reactor (VTR) sodium cartridge loop proposes to use a 7-pin bundle as its experimental core region, highlighting the need for additional data and models.&lt;/p&gt;
+&lt;p&gt;This work seeks to establish a better understanding of the pressure drop in 7-pin wire-wrapped rod bundles through scaled experiments and a novel pressure drop model. A scaling analysis is first performed to demonstrate the applicability of water experiments to the VTR sodium cartridge loop, before an experimental test facility is designed and constructed. Experiments are then performed to determine the pressure drop.&lt;/p&gt;
+&lt;p&gt;Current models are able to predict the data well, but are complex and can be difficult to use.  A comparatively simpler model has been developed, based on exact laminar solutions of a simplified rod bundle, which also offers a theoretical lower bound for the pressure drop. The proposed model compares well with the existing experimental database, able to predict bundle friction factor with an average absolute percent difference of 10.8%. This accuracy is also similar to existing correlations.&lt;/p&gt;
+&lt;p&gt;Featured image from &amp;ldquo;The upgraded Cheng and Todreas correlation for pressure drop in hexagonal wire-wrapped rod bundles&amp;rdquo; by S.K. Chen, Y.M. Chen, &amp;amp; N.E. Todreas&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Separate effects of inclination on two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/project/inclined-two-phase-flow/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/inclined-two-phase-flow/</guid>
+      <description>&lt;p&gt;Two-phase flow in an inclined pipe, i.e. not perfectly horizontal or vertical, has a number of important applications such as oil and gas pipelines, and helical coil steam generators. Despite this, there is limited study on the inclined two-phase flows. A large body of research exists on vertical two-phase flows, where the buoyancy force is parallel to the flow direction. Recent studies have systematically investigated horizontal two-phase flows, showing the effects of buoyancy acting perpendicular to the flow direction. Varying the angle of inclination can yield different body force effects from either vertical or horizontal, which can affect the void distribution, flow regime transitions, pressure drop, relative motion between gas and liquid phases.&lt;/p&gt;
+&lt;p&gt;ART has established a separate effects test facility to study both the effects of inclination on two-phase flows, as well as the conventional inverted U steam generator. A photo of the facility is shown in Figure 1.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-photo-of-the-test-facility&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-two-phase-flow/Figure_hude5cfab2072d674d82002f44812458c1_83460_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;A photo of the test facility&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-two-phase-flow/Figure_hude5cfab2072d674d82002f44812458c1_83460_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;808&#34; height=&#34;540&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    A photo of the test facility
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Images of flow conditions at different angles are shown in Figure 2, highlighting the changes to the interfacial structure that can occur with respect to angle.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-images-of-a-constant-flow-condition-at-different-orientations&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-two-phase-flow/Figure2_huc481276552365ce4ad34e266c5e05428_71358_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Images of a constant flow condition at different orientations&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-two-phase-flow/Figure2_huc481276552365ce4ad34e266c5e05428_71358_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;811&#34; height=&#34;536&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Images of a constant flow condition at different orientations
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Experiments are performed with a variety of state-of-the-art instrumentation, including high-speed video camera, an impedance meter, local four-sensor conductivity probes, and gamma densitometry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimental Study and CFD Design Tool Development for the Cartridge Loop in the Versatile Test Reactor (VTR)</title>
+      <link>https://engineering.purdue.edu/ARTH/project/versatile-test-reactor/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/versatile-test-reactor/</guid>
+      <description>&lt;p&gt;Generation IV fast reactors operate at high temperature (500~1000°C) and fast neutron spectrum environment. In order to develop novel and advanced fuels and materials for advanced reactors, an intense fast neutron environment is needed for testing. However, no fast-reactor-based neutron source is available in U.S. since the shutdown of Fast Flux Test Facility (FFTF) in 1990s. As such, the Versatile Test Reactor (VTR) program is established to accelerate the testing and qualification of the new designs of fuel and materials. In VTR, an internal cartridge loop design with flowing different coolants (e.g., liquid metal, gas, and molten salt) is adopted to provide appropriate in-core environment. This design can isolate the test vehicle coolant loop from the primary reactor coolant to maximize the testing capability.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-schematic-of-the-vtr-cartridge-loop&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/versatile-test-reactor/featured_hue55cf0e9c218d7d7aeb7a34c9c6d24c3_34221_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A schematic of the VTR cartridge loop&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/versatile-test-reactor/featured_hue55cf0e9c218d7d7aeb7a34c9c6d24c3_34221_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;281&#34; height=&#34;504&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    A schematic of the VTR cartridge loop
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The objective of the present research is to develop a CFD design tool for the cartridge loop in VTR. A scaling analysis is first performed to investigate the feasibility of using water loop to replace sodium loop, while CFD simulation is performed to support scaling analysis and/or to improve the test facility design. Heat transfer experiments will be performed on the constructed test facilities to investigate the overall functionality and performance of the cartridge loop at different boundary conditions. Test conditions may include steady-state parametric studies on flow rates and core power, and transient studies on increasing core power, loss of flow, etc. In the end, the CFD simulation results will be evaluated based on the obtained experimental data and a CFD design tool will be developed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid Subcritical Testbed (HYST) Facility Design and Data Analysis</title>
+      <link>https://engineering.purdue.edu/ARTH/project/niowave-hyst/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/niowave-hyst/</guid>
+      <description>&lt;p&gt;In order to develop novel and advanced fuels and materials for Generation IV reactors, an intense fast neutron environment is needed for testing.  Fast neutron fluxes greater than 1015 n/cm2s are required for radiation damage studies with significant displacements per atom (DPA), which are conventionally achieved with fast reactors.  However, since the shutdown of the Fast Flux Test Facility (FFTF), the United States (U.S.) has not had a fast-reactor-based neutron source.  To address this issue, Niowave, Inc. proposes to develop a HYbrid fast/thermal core configuration Subcritical Testbed (HYST) to provide a testing capability for novel designs of fuels and materials in a fast reactor like environment.  The fast core region of the testbed is cooled by liquid LBE and can provide a sufficient volume for testing advanced nuclear reactor materials in a liquid metal environment.  Considering that the proposed subcritical testbed facility is not a reactor, it will be cheaper and faster to license that a reactor.  In order for HYST to be realized, however, the thermal-hydraulic analysis of the designed systems needs to be performed using experimental data.&lt;/p&gt;
+&lt;p&gt;In the current work, Purdue will assist Niowave, Inc. in test facility design and data analysis. This includes providing design considerations such as test loop components and setup, implementing various instruments and assisting Niowave, Inc. in developing plans for experiments such as test procedures, test conditions, and test plans.  In parallel, a CFD simulation on the test loop will be performed to investigate the hydrodynamics and heat transfer characteristics of the system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jet Impingement Model Evaluation and Development</title>
+      <link>https://engineering.purdue.edu/ARTH/project/jet-impingement/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/jet-impingement/</guid>
+      <description>&lt;p&gt;When jet impingement happens, the fluid within the high-energy piping system is discharged into the surrounding environment as a high energy jet, leading to extreme load that can cause malfunction and significant damage to the surrounding structures, systems, and components (SSCs). While the standard jet impingement model in ANSI/ANS-58.2 (1988) have been developed to design protective systems to mitigate the damage, many non-conservatisms in these models have been specified. Jet impingement model evaluation and development is therefore necessary for the safety analysis and design of nuclear power plants.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-of-expanding-jet-for-analysis&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/jet-impingement/featured_hu106bff755b45aefbb81dcf09ca6d4ede_38016_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Schematic of expanding jet for analysis&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/jet-impingement/featured_hu106bff755b45aefbb81dcf09ca6d4ede_38016_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1133&#34; height=&#34;878&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematic of expanding jet for analysis
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The objective of the present research is to perform model evaluation of ANSI/ANS-58.2 (1988) and to provide guidance for model improvement. A comprehensive literature review was first performed to establish an experimental databank for key parameters in jet impingement, such as pressure distribution and critical mass flux. Both free and impinging jets for subcooled water, saturated water/two-phase, and saturated steam conditions are investigated. Using the experimental databank, the standard jet impingement model was evaluated, and model development guidance was provided to reach more accurate prediction of the jet impingement phenomena.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Plug Bubbles by Segmentation of Images using a Residual Neural Network</title>
+      <link>https://engineering.purdue.edu/ARTH/project/bubble-image-neural-network/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/bubble-image-neural-network/</guid>
+      <description>&lt;p&gt;Plug and slug flow regimes are known for their bullet shapes. Identifying the shape the of the plug bubble is crucial to understanding the pressure drop and heat transfer capacity of the the fluid. The conventional solution to analyze plug bubbles is to use image analysis techniques. These techniques are useful, but can be computationally expensive, and the diversity of methods leads to diversity of errors.&lt;/p&gt;
+&lt;p&gt;Using previously acquired data from videos of plug bubbles passing through a mirror box in order to capture the top and and the side of the bubble at once. A residual convolutional neural network was trained to try and mimic the plug/slug bubble identification techniques. Once trained, this neural method was much less computationally expensive than the image analysis techniques, and even reduces some of the errors present in the original techniques. A comparison of the neural network identification to raw video is shown in Figure 1.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experiments for the Development of TRACE with Interfacial Area Transport Models</title>
+      <link>https://engineering.purdue.edu/ARTH/project/experiments-for-trace-and-iate/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/experiments-for-trace-and-iate/</guid>
+      <description>&lt;p&gt;The objective of the present research is to establish a database of local two-phase flow parameters in a high void fraction range of approximately 30% to 80% to support the development of the interfacial area transport models for the NRC’s thermal-hydraulics code TRACE. The interfacial area concentration, ai, is an important geometric parameter in two-phase flows, as it is directly related to the transfer of mass, momentum, and energy between the two phases. Thus, an accurate estimate of ai is critical to modeling two-phase flows.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-two-phase-flow-facility-at-the-advanced-multi-phase-flow-laboratory-at-penn-state&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/experiments-for-trace-and-iate/featured_huba376ed3ae3b47173ec5b7eab993b4a5_117007_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Two-phase flow facility at the Advanced Multi-Phase Flow Laboratory at Penn State&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/experiments-for-trace-and-iate/featured_huba376ed3ae3b47173ec5b7eab993b4a5_117007_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;878&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Two-phase flow facility at the Advanced Multi-Phase Flow Laboratory at Penn State
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Horizontal Bubbly Two-Phase Flow with Flow Restrictions</title>
+      <link>https://engineering.purdue.edu/ARTH/project/horizontal-bubbly-with-restrictions/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/horizontal-bubbly-with-restrictions/</guid>
+      <description>&lt;p&gt;The nuclear reactor coolant system is composed of various flow geometries and restrictions, including both vertical and horizontal pipes, interconnected with flow restrictions such as elbows and tees. While the knowledge base of two-phase flow regime transition and interfacial area transport in these conditions is quite limited, they play key roles in the pressure drop and heat transfer capability of the fluid.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-diagram-of-the-horizontal-experimental-facility&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/featured_hufbe9e0f5942cbb8293aaef61148af427_357006_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Schematic diagram of the horizontal experimental facility.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/featured_hufbe9e0f5942cbb8293aaef61148af427_357006_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;370&#34; height=&#34;321&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematic diagram of the horizontal experimental facility.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This study performed analysis upon previously acquired data in the horizontal two-phase flow through channels with various flow restrictions, collected at the University of Wisconsin-Milwaukee. The experimental facility, shown in Figure 1 was composed of 50.3 mm ID glass pipes with both a 90° and 45° horizontal elbow installed. To evaluate an interfacial area transport equation for the horizontal bubbly flow, a required pressure drop model that accounted for the two-phase minor loss was developed, and the results shown for the 90° elbow in Figure 2. Finally, a preliminary interfacial area transport equation applicable to horizontal bubbly flow with either a 90° and 45°elbow restriction was developed with some characteristic results shown in Figure 3.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-predictions-of-the-developed-pressure-drop-model-to-account-for-the-minor-loss-results-of-90-elbow-with-2-error-bars-shown&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/Figure2_hud3ce5c535823464da3efdc837bc1d4ae_275510_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Predictions of the developed pressure drop model to account for the minor loss. Results of 90° elbow with ±2% error bars shown.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/Figure2_hud3ce5c535823464da3efdc837bc1d4ae_275510_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;341&#34; height=&#34;269&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Predictions of the developed pressure drop model to account for the minor loss. Results of 90° elbow with ±2% error bars shown.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-predictions-of-the-developed-interfacial-area-transport-equation-for-horizontal-bubbly-flow-with-90-or-45-elbow-error-bars-shown-20&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/Figure3_hu82cb425fdb81370f029b3f46f41b3222_304854_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Predictions of the developed interfacial area transport equation for horizontal bubbly flow with 90° or 45° elbow. Error bars shown: ±20%.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/horizontal-bubbly-with-restrictions/Figure3_hu82cb425fdb81370f029b3f46f41b3222_304854_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;508&#34; height=&#34;200&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Predictions of the developed interfacial area transport equation for horizontal bubbly flow with 90° or 45° elbow. Error bars shown: ±20%.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Large Diameter Horizontal Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/project/large-diameter-horizontal-two-phase-flow/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/large-diameter-horizontal-two-phase-flow/</guid>
+      <description>&lt;p&gt;In order to improve the predictions of two-phase flow phenomena in various flow configurations, additional accurate experimental database and closure relations are required. Many two-phase flow experiments have been performed in vertical two-phase flow. However, there has been little investigation of horizontal flows compared with vertical flows. The highly asymmetric void distribution in horizontal flow, which is due to the effect of the buoyancy force, adds more difficulties to both experimental and analytical studies. As such, previous work on vertical flow cannot be directly extended to horizontal flow.&lt;/p&gt;
+&lt;p&gt;Although there have been research to investigate horizontal two-phase flow through experiments, database required for accurate model development in horizontal two-phase flow is still limited. Furthermore, most of the previous work focusing on investigation of dispersed bubbly flow in small diameter pipes (10 mm to 50 mm). As such, systematic investigation on scalability of the experimental data and closure relations developed in small diameter pipes is indispensable for large diameter horizontal two-phase flow analysis. The highly asymmetric distribution of the dispersed phase in horizontal two-phase flow makes the scalability study more important compared to vertical two-phase flow, because the ratio of characteristic bubble length scale to pipe diameter may govern the severity of the asymmetry in bubble distribution and the flow transition criteria.&lt;/p&gt;
+&lt;p&gt;The present work establishes a 4-in I.D. horizontal, adiabatic, two-phase flow test facility to: (1) perform detailed flow visualizations; (2) investigate the interfacial structures and flow regime transition criteria; (3) establish an extensive database in bubbly, plug and slug flow regimes in relation to future transition criteria modeling efforts; (4) investigate the scalability of the flow regime transition criteria in horizontal two-phase flow.&lt;/p&gt;
+&lt;p&gt;The test facility is designed to be capable of performing experiments in a comprehensive range of horizontal two-phase flow conditions including bubbly, plug, slug, stratified, stratified-wavy, and annular flow regimes. The test section is designed to provide an ideal condition for flow visualization and for the application of four-sensor conductivity probe. A high speed movie camera capable of capturing images at up to 32,000 frames per second is available and will be mployed to perform flow visualization studies. Figure 1 shows a simple schematic diagram of the large diameter horizontal two-phase flow test facility. Figure 2 shows the photographic images of the two-phase injector and reducer for the test facility.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-diagram-top-view-of-the-4-in-id-horizontal-two-phase-flow-test-facility-arrows-denote-flow-direction&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/large-diameter-horizontal-two-phase-flow/featured_hu418e7e151e2e39e0fc6b4098f477efe6_48419_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Schematic diagram (Top view) of the 4-in ID horizontal two-phase flow test facility (arrows denote flow direction).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/large-diameter-horizontal-two-phase-flow/featured_hu418e7e151e2e39e0fc6b4098f477efe6_48419_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1127&#34; height=&#34;495&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematic diagram (Top view) of the 4-in ID horizontal two-phase flow test facility (arrows denote flow direction).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-photographic-images-of-the-two-phase-injector-left-and-middle-and-reducer-right-for-the-4-in-id-horizontal-two-phase-flow-test-facility&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/large-diameter-horizontal-two-phase-flow/Figure2_hu96af9775aafaeeea6b6a2fbd149f1682_64614_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Photographic images of the two-phase injector (Left and Middle) and reducer (Right) for the 4-in ID horizontal two-phase flow test facility.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/large-diameter-horizontal-two-phase-flow/Figure2_hu96af9775aafaeeea6b6a2fbd149f1682_64614_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;742&#34; height=&#34;295&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Photographic images of the two-phase injector (Left and Middle) and reducer (Right) for the 4-in ID horizontal two-phase flow test facility.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Objective Flow Regime Identification via Ultrasound</title>
+      <link>https://engineering.purdue.edu/ARTH/project/ultrasound/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/ultrasound/</guid>
+      <description>&lt;p&gt;In two-phase flows systems, knowledge of the flow structure is important in determining the pressure drop, heat transfer capability and general behavior of the flow. However, in practical pipes systems, the flow structure cannot be visually observed. The current work investigates the use of an ultrasonic signal coupled with Symbolic Dynamic Filtering (SDF) to gain understanding of the flow structure. The processing algorithm compares the characteristics of a “base-state” to an input condition to determine the measure of difference.&lt;/p&gt;
+&lt;p&gt;To test the approach, measurements in an air-water system are taken with the ultrasonic probe and the output of the algorithm correlated to the area-averaged void fraction of the flow condition. As shown in Figure 1, the degree of change in the flow condition, from the base-state, undergoes an inflection at the location where the structure is visually observed to change from bubbly to cap-bubbly flow. Ideally, this sensor could be employed is a system to detect a change in flow structure and take corrective action if necessary.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-output-of-sdf-versus-area-averaged-void-fraction-measurements-of-conductivity-probe&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/ultrasound/featured_huad4612c01417378352d6b08642e723aa_417654_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Output of SDF versus area-averaged void fraction measurements of conductivity probe.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/ultrasound/featured_huad4612c01417378352d6b08642e723aa_417654_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;464&#34; height=&#34;300&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Output of SDF versus area-averaged void fraction measurements of conductivity probe.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-rows-from-top-to-bottom-1-high-speed-camera-image-of-the-flow-process-2-ultrasonic-signal-3-pattern-ie-state-probability-vector&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/ultrasound/Figure2_hu2ccc977366b9b00a1be187a7f187a43a_905778_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Rows from top to bottom: (1) high-speed camera image of the flow process; (2) ultrasonic signal; (3) pattern (i.e., state probability) vector.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/ultrasound/Figure2_hu2ccc977366b9b00a1be187a7f187a43a_905778_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;556&#34; height=&#34;543&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Rows from top to bottom: (1) high-speed camera image of the flow process; (2) ultrasonic signal; (3) pattern (i.e., state probability) vector.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Two-Phase Flow in Combinatorial Flow Channels</title>
+      <link>https://engineering.purdue.edu/ARTH/project/combinatorial-flow-channels/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/combinatorial-flow-channels/</guid>
+      <description>&lt;p&gt;Most energy systems, including nuclear reactors, have flow channels in varying configurations that are interconnected via various flow restrictions such as elbows, valves, and tees, etc. The presence of the flow restrictions induces significant changes in the interfacial structures, their transport characteristics, and flow regime transition. This in turn affects the mass, momentum, and energy transfer in a two-phase flow system, and hence the safety and efficiency. Experimental studies are crucial in improving the understanding of the effect of flow restrictions on two-phase flow and developing dynamic models for transport of interfacial area.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-simple-schematic-of-the-combinatorial-two-phase-flow-facility&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/combinatorial-flow-channels/featured_hu02765a3b4f120a605ae2674277caf54c_476054_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A simple schematic of the combinatorial two-phase flow facility.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/combinatorial-flow-channels/featured_hu02765a3b4f120a605ae2674277caf54c_476054_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;466&#34; height=&#34;340&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    A simple schematic of the combinatorial two-phase flow facility.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This project is focused on investigating the geometric effects of 90-degree vertical elbows and combinatorial flow configuration on two-phase flow. The experimental facility consists of vertical and horizontal sections made out of 50.8 mm inner diameter acrylic pipes interconnected via 90-degree vertical glass elbows. The maximum development length in the vertical and horizontal section is 66D and 180D respectively. A total of 24 measurement locations are present along the test section. A set of two injectors and manipulating valves allows the two-phase flow to be started in either vertical-upward or vertical-downward flow configurations. This flow loop is capable of simulating different flow configurations such as co-current or countercurrent flow.&lt;/p&gt;
+&lt;p&gt;A high speed camera is employed to perform flow visualization studies across the first 90-degree vertical elbow. Based on extensive flow visualization studies modified horizontal two-phase flow regime maps are suggested at two locations downstream of the vertical elbow as shown in Figure 2.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-modified-flow-regime-maps-for-horizontal-two-phase-flow-downstream-of-the-vertical-elbow-conventional-map-by-mandhane-1974&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/combinatorial-flow-channels/Figure2_huef273c3278a1e5aa57f7c68fad958309_382966_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Modified flow regime maps for horizontal two-phase flow downstream of the vertical elbow (Conventional map by Mandhane (1974)).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/combinatorial-flow-channels/Figure2_huef273c3278a1e5aa57f7c68fad958309_382966_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;514&#34; height=&#34;248&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Modified flow regime maps for horizontal two-phase flow downstream of the vertical elbow (Conventional map by Mandhane (1974)).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The four-sensor conductivity probe is used to obtain extensive local data in vertical as well as horizontal section. The measured parameters include: void fraction, bubble velocity, interfacial area concentration, bubble frequency and bubble Sauter mean diameter. Figure 3 shows the development of the three-dimensional measured local void fraction across the elbow. Interesting results are obtained in the horizontal section immediately downstream of the vertical elbow wherein the local void fraction has a dual peaked profile along the horizontal axis of the pipe cross-section. It is speculated that the secondary flow generated by the elbow entrains smaller bubbles causing them to be distributed in two distinct regions of the pipe cross-section.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-development-of-three-dimensional-measured-local-profiles-of-void-fraction-across-the-vertical-elbow&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/combinatorial-flow-channels/figure3_hu95138202d054b6dc6d74ede09a46f612_52690_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Development of three-dimensional measured local profiles of void fraction across the vertical elbow.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/combinatorial-flow-channels/figure3_hu95138202d054b6dc6d74ede09a46f612_52690_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;516&#34; height=&#34;234&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Development of three-dimensional measured local profiles of void fraction across the vertical elbow.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Spacer Grid Separate Effects</title>
+      <link>https://engineering.purdue.edu/ARTH/project/spacer-grid-separate-effects/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/spacer-grid-separate-effects/</guid>
+      <description>&lt;p&gt;The nuclear reactor coolant system is composed of various flow geometries and restrictions. Many geometric effects of two-phase flow encountered in a typical reactor system have not yet been fully examined, including the effect of rod bundle spacer grids.&lt;/p&gt;
+&lt;p&gt;The purpose of this research is to investigate the geometric effects of two- phase flow through a prototypic spacer grid to establish both the local and global database necessary for model development and code validation. The end goal is to develop predictive models that account for the effects of spacer grids and to serve as constitutive relations in the interfacial area transport equation. This model has been developed for various flow conditions and has been validated in an extensive database; however, further study on geometric effects is indispensable to establish a comprehensive and robust model. In view of this, the present test facility is designed to study the effects of rod bundle spacer grids on interfacial area transport in two-phase flow.&lt;/p&gt;
+&lt;p&gt;The facility employed is a scaled test facility based on a conventional pressurized water reactor. 19 dimensionless geometric parameters and five flow parameters were employed in the design of the facility to achieve similarity between the test facility and the prototypic system. The facility consists of a 1x3 array of 3.18 cm diameter simulant fuel rods with a pitch of 4.45 cm that are arranged in a rectangular channel with a 13.65 cm x 4.45 cm cross-section that spans 3.3 m from injection to outlet. The facility was designed as a narrow rectangular channel with clear acrylic sides and rods to facilitate flow visualization. Seven axial measurement locations are available along the length of the test section, one upstream of the spacer grid and six downstream of the spacer grid, to obtain measurements of local two-phase flow parameters throughout the channel cross-section&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-spacer-grid-separate-effects-two-phase-flow-test-facility&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/spacer-grid-separate-effects/Figure1_hu4dbe404f0208bd5e32fda4625024808e_200742_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Spacer-grid separate-effects two-phase flow test facility&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/spacer-grid-separate-effects/Figure1_hu4dbe404f0208bd5e32fda4625024808e_200742_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;444&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Spacer-grid separate-effects two-phase flow test facility
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;A High speed camera is employed to perform flow visualizations to visually observe the effect of the spacer grid on flow regime transition. Four flow regimes are observed by researchers: Bubbly, Cap-Turbulent, Slug and Churn-Turbulent. Two major effects of the spacer grid on the flow regime transition are observed, bubble coalescence, and bubble breakup. The observation of larger bubbles after the spacer grid indicated bubble coalescence for various conditions. While during other conditions the increased quantity of smaller bubbles indicated bubble breakup occurring.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-spacer-grid-separate-effects-two-phase-flow-test-facility-schematic&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/spacer-grid-separate-effects/Figure2_hu148efb9ca3a2c1c6f912540f74def933_89654_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Spacer-grid separate-effects two-phase flow test facility schematic.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/spacer-grid-separate-effects/Figure2_hu148efb9ca3a2c1c6f912540f74def933_89654_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;66&#34; height=&#34;448&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Spacer-grid separate-effects two-phase flow test facility schematic.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Spacer Grid Thermal Hydraulics Program</title>
+      <link>https://engineering.purdue.edu/ARTH/project/spacer-grid-th/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/spacer-grid-th/</guid>
+      <description>&lt;p&gt;Through the joint efforts of the Pennsylvania State University and the United States Nuclear Regulatory Commission, an experimental Rod Bundle Heat Transfer (RBHT) facility was designed and built. The purpose of the facility is to collect fundamental rod bundle thermal-hydraulic data that can be used to develop and validate models for system codes used by the nuclear industry.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-test-facility-schematic&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/spacer-grid-th/featured_hue6ac1dc8a4c9aa48e158e93ad0cccf50_353998_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Test facility schematic.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/spacer-grid-th/featured_hue6ac1dc8a4c9aa48e158e93ad0cccf50_353998_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;390&#34; height=&#34;302&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Test facility schematic.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The facility is a once through electrically heated 7x7 rod bundle with prototypical PWR geometry. Spacer grids with mixing vanes are present and the instrumentation is specifically located such that the effect of the spacer grids on thermal-hydraulic phenomena such as pressure drop and heat transfer can be captured.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-bundle-cross-section-and-spacer-grid&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/spacer-grid-th/Figure2_hu4220c1c4a9dbaa7dea27d1830ff186ce_305718_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Bundle cross-section and spacer grid.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/spacer-grid-th/Figure2_hu4220c1c4a9dbaa7dea27d1830ff186ce_305718_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;511&#34; height=&#34;199&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Bundle cross-section and spacer grid.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;To date, constant reflood, steam cooling, steam cooling with droplet injection and level swell experiments have been conducted under the supervision of the late Dr. Lawrence Hochreiter. Currently, the facility is being utilized under the Spacer Grid Thermal-Hydraulics (SGTH) program to study the effect of spacer grids under post CHF steady and oscillatory reflood conditions. Preliminary results show that for the same nominal reflood rate, oscillations in the flow decrease peak clad temperature but delay quench time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Small Diameter Horizontal Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/project/small-diameter-horizontal-two-phase-flow/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/small-diameter-horizontal-two-phase-flow/</guid>
+      <description>&lt;p&gt;In order to develop and validate Multi-phase Computational Fluid Dynamics (MCFD) codes, an extensive database of two-phase flow information is required for various flow regimes, geometries, and orientations. Many two-phase flow experiments have been performed in vertical flow channel geometries, and thus a substantial number of databases exist to benchmark MCFD approaches in such conditions. However, there are few databases of local two-phase flow parameters acquired in straight horizontal flow channels available that are suitable for comparisons with MCFD and the development of multi-phase closure models. The present work establishes a horizontal, adiabatic, air-water, two-phase flow test facility to: (1) perform detailed flow visualizations, (2) study the interfacial structures and flow regime transitions, and (3) identify gas-phase interactions in air-water horizontal two-phase flow in relation to future interfacial area transport modeling efforts. Figures 1 and 2 highlight two of the bubble interaction mechanisms: turbulence impact breakup and random collision coalescence.&lt;/p&gt;
+&lt;p&gt;The test facility is designed to be capable of performing experiments in a comprehensive range of horizontal two-phase flow conditions including bubbly, plug, slug, stratified, stratified-wavy, and annular flow regimes. The test section is desiged to provide an ideal condition for flow visualization and for the application of optical instrumentation. A high speed movie camera capable of capturing images at up to 32,000 frames per second is available and will be employed to perform flow visualization studies. In order to achieve a fully developed horizontal two-phase flow, clear acrylic pipes with 3.81 cm inner diameter are employed as the test section, which provide a total development length of more than 200 diameters.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-time-series-of-bubble-breakup-by-turbulence-impact-process-jf500-ms-jgatm005-ms-at-a-development-length-of-80-diameters&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/small-diameter-horizontal-two-phase-flow/featured_hue6ab6372ef8a3608623a2b2a9c59d865_33475_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Time series of bubble breakup by turbulence impact process. jf=5.00 m/s, jg,atm=0.05 m/s at a development length of 80 diameters.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/small-diameter-horizontal-two-phase-flow/featured_hue6ab6372ef8a3608623a2b2a9c59d865_33475_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;571&#34; height=&#34;410&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Time series of bubble breakup by turbulence impact process. jf=5.00 m/s, jg,atm=0.05 m/s at a development length of 80 diameters.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The purpose of the first portion of this research is to perform a scoping experiment to study the effects of break angle and break length-to-diameter ratio (L/D) on the exchange rate during the postulated scenario. Here, water and brine are used as simulant fluids, and flow visualization and density measurement experiments have been performed. The exchange rate is expressed in terms of a non-dimensional Froude number which scales the inertia with respect to the buoyancy. The results obtained are compared with previous studies as shown below.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-time-series-of-bubble-coalescence-by-random-collision-process-jf500-ms-jgatm010-ms-at-a-development-length-of-80-diameters&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/small-diameter-horizontal-two-phase-flow/Figure2_hufba3f038738a404b83c23bf1d1cff9f9_31763_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Time series of bubble coalescence by random collision process. jf=5.00 m/s, jg,atm=0.10 m/s at a development length of 80 diameters.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/small-diameter-horizontal-two-phase-flow/Figure2_hufba3f038738a404b83c23bf1d1cff9f9_31763_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;574&#34; height=&#34;392&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Time series of bubble coalescence by random collision process. jf=5.00 m/s, jg,atm=0.10 m/s at a development length of 80 diameters.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Air-Ingress in VHTR</title>
+      <link>https://engineering.purdue.edu/ARTH/project/air-ingress-vhtr/</link>
+      <pubDate>Fri, 27 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/air-ingress-vhtr/</guid>
+      <description>&lt;p&gt;The objective of this research is to investigate the postulated Depressurized Loss of Forced Circulation (D-LOFC) event for Very High Temperature Gas-Cooled Reactors (VHTR). Accurately modeling this event is necessary for licensing the VHTR and currently no adequate experimental database exists to create or validate models for predicting D-LOFC behavior. In particular, the ingress of air into the reactor vessel which can oxidize the graphite structures.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-flow-exchange-visualization-in-horizontal-and-vertical-breaks&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/featured_hud09a2d74065a0092af4fe0dc350a9afe_357062_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Flow exchange visualization in horizontal and vertical breaks&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/featured_hud09a2d74065a0092af4fe0dc350a9afe_357062_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;561&#34; height=&#34;212&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Flow exchange visualization in horizontal and vertical breaks
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The purpose of the first portion of this research is to perform a scoping experiment to study the effects of break angle and break length-to-diameter ratio (L/D) on the exchange rate during the postulated scenario. Here, water and brine are used as simulant fluids, and flow visualization and density measurement experiments have been performed. The exchange rate is expressed in terms of a non-dimensional Froude number which scales the inertia with respect to the buoyancy. The results obtained are compared with previous studies as shown below.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-comparison-of-proposed-correlation-to-experimental-data&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/Figure2_hufccd007926fc8a4b20cbc3999cab3765_494574_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Comparison of proposed correlation to experimental data&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/Figure2_hufccd007926fc8a4b20cbc3999cab3765_494574_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;519&#34; height=&#34;317&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Comparison of proposed correlation to experimental data
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-comparison-of-average-froude-number-for-linear-region-with-previous-studies-&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/figure3_hu1a8c50f9205b1535b2afe4d9faa3a437_587574_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Comparison of average Froude number for linear region with previous studies&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/air-ingress-vhtr/figure3_hu1a8c50f9205b1535b2afe4d9faa3a437_587574_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;544&#34; height=&#34;360&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Comparison of average Froude number for linear region with previous studies
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The purpose of the second portion of this research is to determine the time available for mitigative actions before the onset of natural circulation where the graphite oxidation increases.  The buoyancy-driven exchange stage of the air ingress phenomena will be simulated using a scaled VHTR vessel and the effect of break orientation (angle) and development length to break size (L/D) will be investigated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

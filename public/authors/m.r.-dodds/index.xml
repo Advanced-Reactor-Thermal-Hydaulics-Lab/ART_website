@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.R. Dodds | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/m.r.-dodds/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/m.r.-dodds/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.R. Dodds</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>M.R. Dodds</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/m.r.-dodds/</link>
+    </image>
+    
+    <item>
+      <title>Measurement of interfacial structures in horizontal air-water bubbly flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2012_talley_et_al/</link>
+      <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2012_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

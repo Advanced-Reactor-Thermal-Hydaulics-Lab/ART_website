@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/xwang/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/xwang/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/xwang/</link>
+    </image>
+    
+    <item>
+      <title>Experimental study on the effect of a spacer grid in two-phase flow through a 1x3 rod bundle</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2012_worosz_et_al_2/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2012_worosz_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

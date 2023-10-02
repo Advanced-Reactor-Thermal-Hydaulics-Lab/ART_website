@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Lincoln | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/f.-lincoln/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/f.-lincoln/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Lincoln</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>F. Lincoln</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/f.-lincoln/</link>
+    </image>
+    
+    <item>
+      <title>Interfacial area transport and evaluation of source terms for confined air-water bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2002_kim_et_al/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2002_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport in a confined bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2001_kim_et_al/</link>
+      <pubDate>Sun, 08 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2001_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

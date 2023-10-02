@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Analysis | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/image-analysis/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/image-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Image Analysis</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/image-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Identification of Plug Bubbles by Segmentation of Images using a Residual Neural Network</title>
+      <link>https://engineering.purdue.edu/ARTH/project/bubble-image-neural-network/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/bubble-image-neural-network/</guid>
+      <description>&lt;p&gt;Plug and slug flow regimes are known for their bullet shapes. Identifying the shape the of the plug bubble is crucial to understanding the pressure drop and heat transfer capacity of the the fluid. The conventional solution to analyze plug bubbles is to use image analysis techniques. These techniques are useful, but can be computationally expensive, and the diversity of methods leads to diversity of errors.&lt;/p&gt;
+&lt;p&gt;Using previously acquired data from videos of plug bubbles passing through a mirror box in order to capture the top and and the side of the bubble at once. A residual convolutional neural network was trained to try and mimic the plug/slug bubble identification techniques. Once trained, this neural method was much less computationally expensive than the image analysis techniques, and even reduces some of the errors present in the original techniques. A comparison of the neural network identification to raw video is shown in Figure 1.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

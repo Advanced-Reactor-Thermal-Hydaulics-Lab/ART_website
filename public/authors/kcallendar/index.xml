@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kcallendar | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/kcallendar/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/kcallendar/index.xml" rel="self" type="application/rss+xml" />
+    <description>kcallendar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>kcallendar</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/kcallendar/</link>
+    </image>
+    
+    <item>
+      <title>Interfacial Area Transport in Horizontal Bubbly Flow with 90-Degree Elbow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_kim_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

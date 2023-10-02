@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scaling | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/scaling/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/scaling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scaling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Scaling</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/scaling/</link>
+    </image>
+    
+    <item>
+      <title>Experimental Study and CFD Design Tool Development for the Cartridge Loop in the Versatile Test Reactor (VTR)</title>
+      <link>https://engineering.purdue.edu/ARTH/project/versatile-test-reactor/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/versatile-test-reactor/</guid>
+      <description>&lt;p&gt;Generation IV fast reactors operate at high temperature (500~1000°C) and fast neutron spectrum environment. In order to develop novel and advanced fuels and materials for advanced reactors, an intense fast neutron environment is needed for testing. However, no fast-reactor-based neutron source is available in U.S. since the shutdown of Fast Flux Test Facility (FFTF) in 1990s. As such, the Versatile Test Reactor (VTR) program is established to accelerate the testing and qualification of the new designs of fuel and materials. In VTR, an internal cartridge loop design with flowing different coolants (e.g., liquid metal, gas, and molten salt) is adopted to provide appropriate in-core environment. This design can isolate the test vehicle coolant loop from the primary reactor coolant to maximize the testing capability.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-schematic-of-the-vtr-cartridge-loop&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/versatile-test-reactor/featured_hue55cf0e9c218d7d7aeb7a34c9c6d24c3_34221_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A schematic of the VTR cartridge loop&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/versatile-test-reactor/featured_hue55cf0e9c218d7d7aeb7a34c9c6d24c3_34221_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;281&#34; height=&#34;504&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    A schematic of the VTR cartridge loop
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The objective of the present research is to develop a CFD design tool for the cartridge loop in VTR. A scaling analysis is first performed to investigate the feasibility of using water loop to replace sodium loop, while CFD simulation is performed to support scaling analysis and/or to improve the test facility design. Heat transfer experiments will be performed on the constructed test facilities to investigate the overall functionality and performance of the cartridge loop at different boundary conditions. Test conditions may include steady-state parametric studies on flow rates and core power, and transient studies on increasing core power, loss of flow, etc. In the end, the CFD simulation results will be evaluated based on the obtained experimental data and a CFD design tool will be developed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

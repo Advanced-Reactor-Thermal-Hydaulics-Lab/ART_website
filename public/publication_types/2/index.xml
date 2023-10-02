@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/publication_types/2/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>2</title>
+      <link>https://engineering.purdue.edu/ARTH/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Friction Factor Model for Wire-Wrapped Rod Bundles</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2022_dix_kim/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2022_dix_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments and CFD simulations of the LBE loop in HYST: A new concept for irradiation experiments in a fast-reactor-like environment</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2022_kong_et_al/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2022_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress in two-phase flow modeling: interfacial area transport</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2021_kim_et_al/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2021_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separate-effect experiments and modeling for two-phase flow under geometric restrictions</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2020_kim_kong/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2020_kim_kong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Jet Impingement in High-energy Piping System</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2020_kong_et_al/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2020_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Investigation of Flow Characteristics through Simple Support Grids in a 1 x 3 Rod Bundle</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2019_karaman_et_al/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2019_karaman_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust Image Analysis Technique for the Study of Horizontal Air-Water Plug Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2019_kong_et_al/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2019_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air-Water Two-Phase Bubbly Flow across 90° Vertical Elbows, Part I: Experiment</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_qiao_and_kim_2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_qiao_and_kim_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the CUPID Code for Bubbly Flows in Horizontal Pipes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_lee_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_lee_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Pipe Size on Horizontal Two-Phase Flow: Flow Regimes, Pressure Drop, Two-Phase Flow Parameters, and Drift-Flux Analysis</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study of Horizontal Air-Water Plug-to-Slug Transition Flow in Different Pipe Sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_4/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of interfacial structure of horizontal air-water two-phase flow in a 101.6 mm ID pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_jin_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_jin_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of interfacial structure of horizontal air-water two-phase flow in a 101.6 mm ID pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_5/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frictional pressure drop analysis for horizontal and vertical air-water two-phase flows in different pipe sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_lu_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_lu_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial Area Transport Models for Horizontal Air-Water Bubbly Flow in Different Pipe Sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Prediction of Two-Phase Pressure Drop Across 90 Degree Vertical Elbows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_qiao_and_kim/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_qiao_and_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Void Fraction Prediction and One-Dimensional Drift-Flux Analysis for Horizontal Two-Phase Flow in Different Pipe Sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of horizontal air-water two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2017_kong_kim/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2017_kong_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation of horizontal air–water bubbly-to-plug and bubbly-to-slug transition flows in a 3.81 cm ID pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2017_kong_et_al/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2017_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inlet effects on vertical downward air-water two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2017_qiao_et_al/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2017_qiao_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport across a 90-degree vertical-upward elbow in air-water bubbly two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2016_qiao_kim/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2016_qiao_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Studies on Multi-Sensor Conductivity Probe Measurement Technique for Two-phase Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2016_worosz_et_al/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2016_worosz_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of horizontal air-water two-phase flow in a round pipe, Part I: Flow visualization</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2015_talley_et_al_2/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2015_talley_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of horizontal air-water two-phase flow in a round pipe, Part II: Measurement of local two-phase parameters in bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2015_talley_et_al/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2015_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considerations in the practical application of the multi-sensor conductivity probe for two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2015_bernard_et_al/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2015_bernard_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments in cap-bubbly two-phase flows for two-group IATE development</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2015_worosz_et_al/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2015_worosz_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments on the effects of a spacer grid in air-water two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2015_wheeler_et_al/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2015_wheeler_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristics of a swirl induced by a 90-degree elbow in turbulent pipe flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2014_kim_et_al/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2014_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the dissipation of elbow effects in bubbly two-phase flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2014_yadav_et_al/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2014_yadav_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation on the effects of a spacer grid on single- and two-phase flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2014_wheeler_et_al/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2014_wheeler_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments on geometric effects of 90-degree vertical-upward elbow in air water two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2014_yadav_et_al_2/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2014_yadav_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of bubble interactions on the prediction of interfacial area in TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2013_talley_et_al/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2013_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of 90-degree vertical elbows on the distribution of local two-phase flow parameters</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2013_yadav_kim/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2013_yadav_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separate effects experiments for air-ingress in helium filled vessel</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2013_kim_et_al/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2013_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation and evaluation of one-group interfacial area transport in TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2011_talley_et_al/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2011_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Local Interfacial Structures Around 90 and 45-Degree Elbows in Horizontal Bubbly Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2010_yadav_et_al/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2010_yadav_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horizontal bubbly flow with elbow restrictions: Interfacial area transport modeling</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2010_talley_kim/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2010_talley_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-phase Minor Loss in Horizontal Bubbly Flow with Elbows: 45-degree and 90-degree Elbows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2010_kim_et_al/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2010_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric effects of 45-degree elbow in horizontal air-water bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_talley_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport equation and implementation into two-fluid model</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_ishii_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_ishii_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial Area Transport in Horizontal Bubbly Flow with 90-Degree Elbow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_kim_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Void fraction measurement in two-phase flow process via symbolic dynamic filtering of ultrasonic signals</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_chakraborty_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_chakraborty_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric effects of 90-degree elbow in the development of interfacial structures in horizontal bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2007_kim_et_al/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2007_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of interfacial area transport equation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2005_ishii_kim/</link>
+      <pubDate>Mon, 12 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2005_ishii_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axial development of interfacial structure of vertical downward bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2005_hibiki_et_al/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2005_hibiki_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic modeling of interfacial structures via interfacial area transport equation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2005_kim_ishii/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2005_kim_ishii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial structure in an air-water planar bubble jet</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2005_sun_et_al/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2005_sun_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Liquid Velocity in Vertical Air-Water Downward Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al/</link>
+      <pubDate>Wed, 07 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Liquid Velocity in Vertical Air-Water Downward Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_2/</link>
+      <pubDate>Wed, 07 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of one-group and two-group interfacial area transport equation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_ishii_et_al/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_ishii_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of one-group and two-group interfacial area transport equation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_ishii_kim/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_ishii_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial structures and regime transition in co-current downward bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_kim_et_al/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial structures in confined cap-turbulent and churn-turbulent flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_5/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquid velocity in upward and downward air-water flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_6/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model evaluation of two-group interfacial area transport equation for confined upward flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_4/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of bubble coalescence and disintegration in confined upward two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_3/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_sun_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of vertical downward bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2004_hibiki_et_al/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2004_hibiki_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drift-Flux Model for Downward Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2003_goda_et_al/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2003_goda_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study on interfacial area transport of vertical downward bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2003_hibiki_et_al/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2003_hibiki_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial structure of air-water two-phase flow in a relatively large pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2003_sun_et_al/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2003_sun_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area of bubbly flow in a relatively large diameter pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2002_sun_et_al_2/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2002_sun_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport and evaluation of source terms for confined air-water bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2002_kim_et_al/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2002_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport equation: Model development and benchmark experiments</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2002_ishii_et_al/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2002_ishii_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial structures of confined air-water two-phase bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2002_kim_et_al_2/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2002_kim_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local liquid velocity measurements in air-water bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2002_sun_et_al/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2002_sun_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of the miniaturized four-sensor conductivity probe and the signal processing scheme</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2000_kim_et_al/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2000_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micro four-sensor probe measurement of interfacial area transport for bubbly flow in round pipes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2001_ishii_kim/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2001_ishii_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-group interfacial area transport in vertical bubbly flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/1998_wu_et_al/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/1998_wu_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on Interfacial Structures in Slug Flows Using a Miniaturized Four-Sensor Conductivity Probe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2001_kim_et_al/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2001_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High pressure simulation experiment on corium dispersion in direct containment heating</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/1996_wu_et_al/</link>
+      <pubDate>Thu, 01 Aug 1996 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/1996_wu_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Degradation of insulators in Silicon Selective Epitaxial Growth (SEG) ambient</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/1995_bashir_et_al/</link>
+      <pubDate>Fri, 01 Sep 1995 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/1995_bashir_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

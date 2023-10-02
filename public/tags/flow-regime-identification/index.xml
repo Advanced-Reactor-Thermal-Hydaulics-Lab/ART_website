@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flow Regime Identification | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/flow-regime-identification/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/flow-regime-identification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flow Regime Identification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>Flow Regime Identification</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/flow-regime-identification/</link>
+    </image>
+    
+    <item>
+      <title>Objective Flow Regime Identification via Ultrasound</title>
+      <link>https://engineering.purdue.edu/ARTH/project/ultrasound/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/ultrasound/</guid>
+      <description>&lt;p&gt;In two-phase flows systems, knowledge of the flow structure is important in determining the pressure drop, heat transfer capability and general behavior of the flow. However, in practical pipes systems, the flow structure cannot be visually observed. The current work investigates the use of an ultrasonic signal coupled with Symbolic Dynamic Filtering (SDF) to gain understanding of the flow structure. The processing algorithm compares the characteristics of a “base-state” to an input condition to determine the measure of difference.&lt;/p&gt;
+&lt;p&gt;To test the approach, measurements in an air-water system are taken with the ultrasonic probe and the output of the algorithm correlated to the area-averaged void fraction of the flow condition. As shown in Figure 1, the degree of change in the flow condition, from the base-state, undergoes an inflection at the location where the structure is visually observed to change from bubbly to cap-bubbly flow. Ideally, this sensor could be employed is a system to detect a change in flow structure and take corrective action if necessary.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-output-of-sdf-versus-area-averaged-void-fraction-measurements-of-conductivity-probe&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/ultrasound/featured_huad4612c01417378352d6b08642e723aa_417654_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Output of SDF versus area-averaged void fraction measurements of conductivity probe.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/ultrasound/featured_huad4612c01417378352d6b08642e723aa_417654_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;464&#34; height=&#34;300&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Output of SDF versus area-averaged void fraction measurements of conductivity probe.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-rows-from-top-to-bottom-1-high-speed-camera-image-of-the-flow-process-2-ultrasonic-signal-3-pattern-ie-state-probability-vector&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/ultrasound/Figure2_hu2ccc977366b9b00a1be187a7f187a43a_905778_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Rows from top to bottom: (1) high-speed camera image of the flow process; (2) ultrasonic signal; (3) pattern (i.e., state probability) vector.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/ultrasound/Figure2_hu2ccc977366b9b00a1be187a7f187a43a_905778_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;556&#34; height=&#34;543&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Rows from top to bottom: (1) high-speed camera image of the flow process; (2) ultrasonic signal; (3) pattern (i.e., state probability) vector.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

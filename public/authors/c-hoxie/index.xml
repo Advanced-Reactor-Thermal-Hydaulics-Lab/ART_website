@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Hoxie | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/c-hoxie/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/c-hoxie/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Hoxie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>C Hoxie</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/c-hoxie/</link>
+    </image>
+    
+    <item>
+      <title>A Robust Image Analysis Technique for the Study of Horizontal Air-Water Plug Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2019_kong_et_al/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2019_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Void Fraction Prediction and One-Dimensional Drift-Flux Analysis for Horizontal Two-Phase Flow in Different Pipe Sizes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation of horizontal air–water bubbly-to-plug and bubbly-to-slug transition flows in a 3.81 cm ID pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2017_kong_et_al/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2017_kong_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

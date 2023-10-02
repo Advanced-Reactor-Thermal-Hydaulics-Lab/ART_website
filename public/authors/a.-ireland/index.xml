@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Ireland | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/a.-ireland/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/a.-ireland/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Ireland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>A. Ireland</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/a.-ireland/</link>
+    </image>
+    
+    <item>
+      <title>Separate effects experiments for air-ingress in helium filled vessel</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2013_kim_et_al/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2013_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separate-effects experiment on the hydrodynamics of air ingress for the very high temperature reactor</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2011_kim_et_al_2/</link>
+      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2011_kim_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Geometric Parameters on Lock Exchange and Buoyancy Driven Exchange Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2010_sarangi_et_al/</link>
+      <pubDate>Sun, 13 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2010_sarangi_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Geometric Parameters on Buoyancy Driven Exchange Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al_3/</link>
+      <pubDate>Sun, 14 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.M LeCorre | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/j.m-lecorre/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/j.m-lecorre/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.M LeCorre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>J.M LeCorre</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/j.m-lecorre/</link>
+    </image>
+    
+    <item>
+      <title>Two-Phase Flow Pattern Identification Using a Fuzzy Methodology</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c1999_lecorre_et_al/</link>
+      <pubDate>Sun, 31 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c1999_lecorre_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

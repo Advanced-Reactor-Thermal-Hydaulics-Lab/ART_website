@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/atoptan/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/atoptan/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/atoptan/</link>
+    </image>
+    
+    <item>
+      <title>Sensitivity Studies on Multi-Sensor Conductivity Probe Measurement Technique for Two-phase Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2016_worosz_et_al/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2016_worosz_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

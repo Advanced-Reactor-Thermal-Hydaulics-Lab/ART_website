@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VTR | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/vtr/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/vtr/index.xml" rel="self" type="application/rss+xml" />
+    <description>VTR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>VTR</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/vtr/</link>
+    </image>
+    
+    <item>
+      <title>Wire-Wrapped Rod Bundle Experiments and Pressure Drop Modeling</title>
+      <link>https://engineering.purdue.edu/ARTH/project/wire-wrapped-rod-bundles/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/wire-wrapped-rod-bundles/</guid>
+      <description>&lt;p&gt;Wire-wrapped rod bundles are often proposed for advanced nuclear reactors operating in a fast neutron spectrum, as designers seek to minimize neutron scattering by tightly packing the fuel pins into a hexagonal lattice. Bundles with many rods have extensively been studied as representative of large fuel assemblies, however far fewer experiments have investigated 7-pin bundles. The Versatile Test Reactor (VTR) sodium cartridge loop proposes to use a 7-pin bundle as its experimental core region, highlighting the need for additional data and models.&lt;/p&gt;
+&lt;p&gt;This work seeks to establish a better understanding of the pressure drop in 7-pin wire-wrapped rod bundles through scaled experiments and a novel pressure drop model. A scaling analysis is first performed to demonstrate the applicability of water experiments to the VTR sodium cartridge loop, before an experimental test facility is designed and constructed. Experiments are then performed to determine the pressure drop.&lt;/p&gt;
+&lt;p&gt;Current models are able to predict the data well, but are complex and can be difficult to use.  A comparatively simpler model has been developed, based on exact laminar solutions of a simplified rod bundle, which also offers a theoretical lower bound for the pressure drop. The proposed model compares well with the existing experimental database, able to predict bundle friction factor with an average absolute percent difference of 10.8%. This accuracy is also similar to existing correlations.&lt;/p&gt;
+&lt;p&gt;Featured image from &amp;ldquo;The upgraded Cheng and Todreas correlation for pressure drop in hexagonal wire-wrapped rod bundles&amp;rdquo; by S.K. Chen, Y.M. Chen, &amp;amp; N.E. Todreas&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

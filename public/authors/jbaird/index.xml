@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/jbaird/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/jbaird/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/jbaird/</link>
+    </image>
+    
+    <item>
+      <title>Scaled Experiments on Air Ingress in the High Temperature Gas Reactor</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2010_spring_et_al/</link>
+      <pubDate>Sun, 07 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2010_spring_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Geometric Parameters on Lock Exchange and Buoyancy Driven Exchange Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2010_sarangi_et_al/</link>
+      <pubDate>Sun, 13 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2010_sarangi_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

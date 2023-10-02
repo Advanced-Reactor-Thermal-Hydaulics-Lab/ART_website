@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Beus | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/s.-beus/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/s.-beus/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Beus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>S. Beus</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/s.-beus/</link>
+    </image>
+    
+    <item>
+      <title>Development of two-group interfacial area transport equation for confined flow I: Modeling of bubble interactions</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2003_sun_et_al_3/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2003_sun_et_al_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of two-group interfacial area transport equation for confined flow II: Model evaluation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2003_sun_et_al_2/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2003_sun_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of interfacial structure in a confined air-water cap-turbulent and churn-turbulent flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2002_sun_et_al/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2002_sun_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of Gas-liquid Two-phase Flow Interfacial Structure in a Confined Bubbly Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2001_kim_et_al_2/</link>
+      <pubDate>Sun, 08 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2001_kim_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Wang | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/g.-wang/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/g.-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>G. Wang</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/g.-wang/</link>
+    </image>
+    
+    <item>
+      <title>Progress in two-phase flow modeling: interfacial area transport</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2021_kim_et_al/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2021_kim_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Analysis of the SFR Cartridge Loop</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2020_kong_et_al_2/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2020_kong_et_al_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

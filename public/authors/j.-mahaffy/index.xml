@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Mahaffy | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/j.-mahaffy/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/j.-mahaffy/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Mahaffy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>J. Mahaffy</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/j.-mahaffy/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of adiabatic bubbly flows in TRACE using the interfacial area transport equation</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2011_talley_et_al/</link>
+      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2011_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation and evaluation of one-group interfacial area transport in TRACE</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2011_talley_et_al/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2011_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

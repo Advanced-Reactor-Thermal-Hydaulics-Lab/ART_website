@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.H. Lee | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/d.h.-lee/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/d.h.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>D.H. Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>D.H. Lee</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/d.h.-lee/</link>
+    </image>
+    
+    <item>
+      <title>Assessment of the CUPID Code for Bubbly Flows in Horizontal Pipes</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2018_lee_et_al/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2018_lee_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

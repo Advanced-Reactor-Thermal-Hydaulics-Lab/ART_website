@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Chakraborty | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/s.-chakraborty/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/s.-chakraborty/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Chakraborty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>S. Chakraborty</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/s.-chakraborty/</link>
+    </image>
+    
+    <item>
+      <title>Objective Classification of Two-Phase Flow Regimes via Ultrasonic Signals</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al/</link>
+      <pubDate>Sun, 14 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2009_talley_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Void fraction measurement in two-phase flow process via symbolic dynamic filtering of ultrasonic signals</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/2009_chakraborty_et_al/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/2009_chakraborty_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

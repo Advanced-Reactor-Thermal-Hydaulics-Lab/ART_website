@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/adix/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/adix/index.xml" rel="self" type="application/rss+xml" />
+    <description>ART</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>ART</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/adix/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Friction Factor Model for Wire-Wrapped Rod Bundles</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2022_dix_kim/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2022_dix_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Pressure Drop Models for 7-Pin Wire-wrapped Rod Bundles</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2022_dix_quan_kim/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2022_dix_quan_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wire-Wrapped Rod Bundle Experiments and Pressure Drop Modeling</title>
+      <link>https://engineering.purdue.edu/ARTH/project/wire-wrapped-rod-bundles/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/wire-wrapped-rod-bundles/</guid>
+      <description>&lt;p&gt;Wire-wrapped rod bundles are often proposed for advanced nuclear reactors operating in a fast neutron spectrum, as designers seek to minimize neutron scattering by tightly packing the fuel pins into a hexagonal lattice. Bundles with many rods have extensively been studied as representative of large fuel assemblies, however far fewer experiments have investigated 7-pin bundles. The Versatile Test Reactor (VTR) sodium cartridge loop proposes to use a 7-pin bundle as its experimental core region, highlighting the need for additional data and models.&lt;/p&gt;
+&lt;p&gt;This work seeks to establish a better understanding of the pressure drop in 7-pin wire-wrapped rod bundles through scaled experiments and a novel pressure drop model. A scaling analysis is first performed to demonstrate the applicability of water experiments to the VTR sodium cartridge loop, before an experimental test facility is designed and constructed. Experiments are then performed to determine the pressure drop.&lt;/p&gt;
+&lt;p&gt;Current models are able to predict the data well, but are complex and can be difficult to use.  A comparatively simpler model has been developed, based on exact laminar solutions of a simplified rod bundle, which also offers a theoretical lower bound for the pressure drop. The proposed model compares well with the existing experimental database, able to predict bundle friction factor with an average absolute percent difference of 10.8%. This accuracy is also similar to existing correlations.&lt;/p&gt;
+&lt;p&gt;Featured image from &amp;ldquo;The upgraded Cheng and Todreas correlation for pressure drop in hexagonal wire-wrapped rod bundles&amp;rdquo; by S.K. Chen, Y.M. Chen, &amp;amp; N.E. Todreas&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Separate effects of inclination on two-phase flow</title>
+      <link>https://engineering.purdue.edu/ARTH/project/inclined-two-phase-flow/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/inclined-two-phase-flow/</guid>
+      <description>&lt;p&gt;Two-phase flow in an inclined pipe, i.e. not perfectly horizontal or vertical, has a number of important applications such as oil and gas pipelines, and helical coil steam generators. Despite this, there is limited study on the inclined two-phase flows. A large body of research exists on vertical two-phase flows, where the buoyancy force is parallel to the flow direction. Recent studies have systematically investigated horizontal two-phase flows, showing the effects of buoyancy acting perpendicular to the flow direction. Varying the angle of inclination can yield different body force effects from either vertical or horizontal, which can affect the void distribution, flow regime transitions, pressure drop, relative motion between gas and liquid phases.&lt;/p&gt;
+&lt;p&gt;ART has established a separate effects test facility to study both the effects of inclination on two-phase flows, as well as the conventional inverted U steam generator. A photo of the facility is shown in Figure 1.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-photo-of-the-test-facility&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-two-phase-flow/Figure_hude5cfab2072d674d82002f44812458c1_83460_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;A photo of the test facility&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-two-phase-flow/Figure_hude5cfab2072d674d82002f44812458c1_83460_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;808&#34; height=&#34;540&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    A photo of the test facility
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Images of flow conditions at different angles are shown in Figure 2, highlighting the changes to the interfacial structure that can occur with respect to angle.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-images-of-a-constant-flow-condition-at-different-orientations&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-two-phase-flow/Figure2_huc481276552365ce4ad34e266c5e05428_71358_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Images of a constant flow condition at different orientations&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/inclined-two-phase-flow/Figure2_huc481276552365ce4ad34e266c5e05428_71358_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;811&#34; height=&#34;536&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Images of a constant flow condition at different orientations
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Experiments are performed with a variety of state-of-the-art instrumentation, including high-speed video camera, an impedance meter, local four-sensor conductivity probes, and gamma densitometry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFD Simulations of the Sodium Cartridge Loop of the Versatile Test Reactor</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2020_quan_et_al/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2020_quan_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study and CFD Design Tool Development for the Cartridge Loop in the Versatile Test Reactor (VTR)</title>
+      <link>https://engineering.purdue.edu/ARTH/project/versatile-test-reactor/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/versatile-test-reactor/</guid>
+      <description>&lt;p&gt;Generation IV fast reactors operate at high temperature (500~1000°C) and fast neutron spectrum environment. In order to develop novel and advanced fuels and materials for advanced reactors, an intense fast neutron environment is needed for testing. However, no fast-reactor-based neutron source is available in U.S. since the shutdown of Fast Flux Test Facility (FFTF) in 1990s. As such, the Versatile Test Reactor (VTR) program is established to accelerate the testing and qualification of the new designs of fuel and materials. In VTR, an internal cartridge loop design with flowing different coolants (e.g., liquid metal, gas, and molten salt) is adopted to provide appropriate in-core environment. This design can isolate the test vehicle coolant loop from the primary reactor coolant to maximize the testing capability.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-schematic-of-the-vtr-cartridge-loop&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/versatile-test-reactor/featured_hue55cf0e9c218d7d7aeb7a34c9c6d24c3_34221_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A schematic of the VTR cartridge loop&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://engineering.purdue.edu/ARTH/ARTH/project/versatile-test-reactor/featured_hue55cf0e9c218d7d7aeb7a34c9c6d24c3_34221_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;281&#34; height=&#34;504&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    A schematic of the VTR cartridge loop
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The objective of the present research is to develop a CFD design tool for the cartridge loop in VTR. A scaling analysis is first performed to investigate the feasibility of using water loop to replace sodium loop, while CFD simulation is performed to support scaling analysis and/or to improve the test facility design. Heat transfer experiments will be performed on the constructed test facilities to investigate the overall functionality and performance of the cartridge loop at different boundary conditions. Test conditions may include steady-state parametric studies on flow rates and core power, and transient studies on increasing core power, loss of flow, etc. In the end, the CFD simulation results will be evaluated based on the obtained experimental data and a CFD design tool will be developed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
