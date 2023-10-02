@@ -29,7 +29,7 @@ image:
 # projects: []
 ---
 
-The Global Panel of Universities on Nuclear Energy Technology, Policy and Education, will commence July 24-25, 2019, in Paris, France, where 16 elite universities from NEA’s member countries are invited to attend. Purdue will be represented by Seungjin Kim, the Capt. James McCARTy Jr. and Cheryl E. McCARTy Head of the School of Nuclear Engineering, and Lefteri Tsoukalas, professor of Nuclear Engineering.
+The Global Panel of Universities on Nuclear Energy Technology, Policy and Education, will commence July 24-25, 2019, in Paris, France, where 16 elite universities from NEA’s member countries are invited to attend. Purdue will be represented by Seungjin Kim, the Capt. James McCarthy Jr. and Cheryl E. McCarthy Head of the School of Nuclear Engineering, and Lefteri Tsoukalas, professor of Nuclear Engineering.
 
 “When I saw the invitation letter, I was elated. This is a great honor,” said Kim. “Personally, I’m humbled and feel a great responsibility.”
 

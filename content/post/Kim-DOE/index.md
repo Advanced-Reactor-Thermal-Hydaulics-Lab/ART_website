@@ -1,7 +1,7 @@
 ---
 title: 'Dr. Seungjin Kim appointed to DOE Nuclear Energy Advisory Committee'
 subtitle: ''
-summary: 'Seungjin Kim, the Capt. James F. McCARTy, Jr. and Cheryl E. McCARTy Head of the School of Nuclear Engineering, has been appointed to the U.S. Department of Energy’s (DOE) Nuclear Energy Advisory Committee (NEAC).'
+summary: 'Seungjin Kim, the Capt. James F. McCarthy, Jr. and Cheryl E. McCarthy Head of the School of Nuclear Engineering, has been appointed to the U.S. Department of Energy’s (DOE) Nuclear Energy Advisory Committee (NEAC).'
 authors:
 tags:
 - Academic
@@ -29,7 +29,7 @@ image:
 # projects: []
 ---
 
-Seungjin Kim, the Capt. James F. McCARTy, Jr. and Cheryl E. McCARTy Head of the School of Nuclear Engineering, has been appointed to the U.S. Department of Energy’s (DOE) Nuclear Energy Advisory Committee (NEAC).
+Seungjin Kim, the Capt. James F. McCarthy, Jr. and Cheryl E. McCarthy Head of the School of Nuclear Engineering, has been appointed to the U.S. Department of Energy’s (DOE) Nuclear Energy Advisory Committee (NEAC).
 
 In this new role, Kim will meet biannually with the 25 other committee members to advise the Secretary and the Assistant Secretary for Nuclear Energy on a number of issues. Items discussed include matters of national policy and scientific aspects of nuclear issues of concern to DOE, periodic reviews of the various program elements within DOE’s nuclear programs and recommendations based thereon, and the needs, views, and priorities of stakeholders of DOE’s nuclear programs.
 

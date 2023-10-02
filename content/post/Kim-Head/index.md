@@ -1,7 +1,7 @@
 ---
 title: 'Trustees approve professorships; honor retiring chancellor, donors'
 subtitle: ''
-summary: 'Seungjin Kim was named the Capt. James McCARTy, Jr., and Cheryl E. McCARTy Head of the School of Nuclear Engineering'
+summary: 'Seungjin Kim was named the Capt. James McCarthy, Jr., and Cheryl E. McCarthy Head of the School of Nuclear Engineering'
 authors:
 tags:
 - Academic
@@ -31,6 +31,6 @@ image:
 
 The Purdue University Board of Trustees on Friday (Aug. 4) approved the appointment of six faculty to named and distinguished positions and approved resolutions of appreciation for the outgoing Fort Wayne campus chancellor and for significant donors to the university.
 
-Seungjin Kim was named the Capt. James McCARTy, Jr., and Cheryl E. McCARTy Head of the School of Nuclear Engineering; Valerie S. Knopik was named the Ben and Maxine Miller Professor of Human Development and Family Studies; Julia Laskin was named the William F. and Patty J. Miller Professor of Chemistry; Jayson Lusk was named Distinguished Professor of Agricultural Economics; Donna M. Riley was named the Kamyar Haghighi Head of the School of Engineering Education; and Kipling D. Williams was named Distinguished Professor of Psychological Sciences.
+Seungjin Kim was named the Capt. James McCarthy, Jr., and Cheryl E. McCarthy Head of the School of Nuclear Engineering; Valerie S. Knopik was named the Ben and Maxine Miller Professor of Human Development and Family Studies; Julia Laskin was named the William F. and Patty J. Miller Professor of Chemistry; Jayson Lusk was named Distinguished Professor of Agricultural Economics; Donna M. Riley was named the Kamyar Haghighi Head of the School of Engineering Education; and Kipling D. Williams was named Distinguished Professor of Psychological Sciences.
 
 Kim, who earned his master’s and doctoral degrees at Purdue, became head of the School of Nuclear Engineering on June 1. He came to Purdue from Pennsylvania State University. His research includes reactor thermal-hydraulics to reactor system analysis code and reactor safety.

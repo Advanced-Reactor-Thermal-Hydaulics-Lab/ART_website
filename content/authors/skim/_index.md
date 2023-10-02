@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Capt. James McCARTy, Jr. and Cheryl E. McCARTy Head and Professor of Nuclear Engineering
+role: Capt. James McCarthy, Jr. and Cheryl E. McCarthy Head and Professor of Nuclear Engineering
 
 # Organizations/Affiliations
 organizations:
