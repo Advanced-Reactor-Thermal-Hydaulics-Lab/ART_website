@@ -5,12 +5,28 @@
     <link>https://engineering.purdue.edu/ARTH/authors/kang284/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/authors/kang284/index.xml" rel="self" type="application/rss+xml" />
     <description>ART</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>ART</title>
       <link>https://engineering.purdue.edu/ARTH/authors/kang284/</link>
     </image>
+    
+    <item>
+      <title>Flow Regime Classification Using Orientation-Independent Layered Spectral Clustering</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim1/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB Mapping: A Dynamic Approach for Flow Pattern Identification and Classification</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim2/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Flow Regime Identification for Inclined Two-phase Flows using Machine Learning</title>

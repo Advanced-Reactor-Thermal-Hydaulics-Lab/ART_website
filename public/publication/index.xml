@@ -5,12 +5,36 @@
     <link>https://engineering.purdue.edu/ARTH/publication/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Publications</title>
       <link>https://engineering.purdue.edu/ARTH/publication/</link>
     </image>
+    
+    <item>
+      <title>Flow Regime Classification Using Orientation-Independent Layered Spectral Clustering</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim1/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Dimensional Drift Flux Analysis of Bubbly Flows in Horizontal and Inclined-Upward Orientations</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2023_ryan_kim/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2023_ryan_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB Mapping: A Dynamic Approach for Flow Pattern Identification and Classification</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim2/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Novel Friction Factor Model for Wire-Wrapped Rod Bundles</title>
