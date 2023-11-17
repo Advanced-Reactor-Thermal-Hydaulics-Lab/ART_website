@@ -5,8 +5,8 @@ summary: Dr. Seungjin Kim has hosted several distinguished visitors to the labor
 authors:
 tags: 
 categories:
-date: "2021-08-20T16:50:58+02:00"
-featured: false
+date: "2023-11-17T16:50:59+02:00"
+featured: true
 draft: false
 
 # Featured image
