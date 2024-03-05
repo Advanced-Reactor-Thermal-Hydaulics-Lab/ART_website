@@ -32,8 +32,10 @@ authors: [skim]
 
 {{< figure src="featured.jpeg" title="Lab group and alumni at ANS Winter 2023. From left to right, David Kang, Drew Ryan, Seungjin Kim, and Ran Kong" lightbox="true" >}}
 
-{{< figure src="ans_s23_kim_dix_marquardt.jpg" title="Lab group and alumni at ANS Annual 2023. From left to right,Seungjin Kim, Adam Dix and Jeremy Marquardt" lightbox="true" >}}
+{{< figure src="ans_s23_kim_dix_marquardt.jpg" title="Lab group and alumni at ANS Annual 2023. From left to right, Seungjin Kim, Adam Dix and Jeremy Marquardt" lightbox="true" >}}
 
-{{< figure src="ans_w22_group.jpg" title="Lab group and alumni at ANS Winter 2022. From left to right, David Kang, Drew Ryan, Seungjin Kim, Adam Dix and Zhengting Quan" lightbox="true" >}}
+{{< figure src="ans_w22_group.jpg" title="Lab group at ANS Winter 2022. From left to right, David Kang, Drew Ryan, Seungjin Kim, Adam Dix and Zhengting Quan" lightbox="true" >}}
+
+{{< figure src="2022_Grad_Showcase_enter.jpg" title="Lab group at Purdue Graduate School Virtual Showcase. From left to right, Drew Ryan, Zhengting Quan, David Kang, and Adam Dix" lightbox="true" >}}
 
 {{< figure src="ryan_defense.jpg" title="Lab group and alumni at Drew Ryan's Dissertation Defense. From left to right, Zhengting Quan, David Kang, Nicollete Muldrow, Drew Ryan, Seungjin Kim, and Adam Dix" lightbox="true" >}}
