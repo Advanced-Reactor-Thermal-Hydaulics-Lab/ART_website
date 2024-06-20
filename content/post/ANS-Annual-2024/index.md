@@ -23,6 +23,4 @@ image:
 projects: []
 ---
 
-{{< figure src="featured.jpg" title="Zhengting Quan presents his research" numbered="false" lightbox="true" >}}
-
 At the 2024 ANS Annual Meeting in Las Vegas, NV, Zhengting Quan presented two papers, titled "Experimental Analysis of Air-Water Two-Phase Bubbly Flow Across a Vertical U-Bend" and "Investigation of Two-Phase Pressure Drop Across a Vertical U-Bend"
