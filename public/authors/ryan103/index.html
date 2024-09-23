@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8F9ES5J7FE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-8F9ES5J7FE', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -235,7 +273,7 @@
   <meta property="og:description" content="Thermal-hydraulics and Reactor Safety Laboratory at Purdue University School of Nuclear Engineering"><meta property="og:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg">
   <meta property="twitter:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-08-20T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-09-04T00:00:00&#43;00:00">
   
 
   
@@ -693,7 +731,19 @@
       <ul>
         
         <li>
+          <a href="/ARTH/publication/c2024_ryan_kim1/">One-Dimensional Drift Flux Analysis of Bubbly Flows in Horizontal and Inclined-Upward Orientations</a>
+        </li>
+        
+        <li>
+          <a href="/ARTH/publication/c2024_ryan_kim2/">Characterization of local parameters of inclined upward air–water bubbly two-phase flows in a round pipe</a>
+        </li>
+        
+        <li>
           <a href="/ARTH/publication/c2023_kang_ryan_kim1/">Flow Regime Classification Using Orientation-Independent Layered Spectral Clustering</a>
+        </li>
+        
+        <li>
+          <a href="/ARTH/publication/c2024_ryan_et_al/">Interfacial area transport modeling of air–water bubbly two-phase flows in inclined orientations</a>
         </li>
         
         <li>

@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8F9ES5J7FE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-8F9ES5J7FE', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -235,7 +273,7 @@
   <meta property="og:description" content="Thermal-hydraulics and Reactor Safety Laboratory at Purdue University School of Nuclear Engineering"><meta property="og:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg">
   <meta property="twitter:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-06-20T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-06-26T16:50:58&#43;02:00">
   
 
   
@@ -573,6 +611,42 @@
     
     
     <div>
+      <h2><a href="/ARTH/post/trsl-nureth-best-movie/" >ART Students Win at NURETH-19</a></h2>
+      <div class="article-style">
+        
+          Graduate students, led by Drew Ryan, win Best Movie Award at NURETH-19.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/ARTH/post/kang-nrc/" >David Kang selected for NRC Graduate Fellowship</a></h2>
+      <div class="article-style">
+        
+          David Kang, an undergraduate student in the School of Nuclear Engineering at Purdue University, has been awarded a Nuclear Regulatory Commission (NRC) Fellowship for continued studies at Purdue University.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/ARTH/post/ryan-service/" >Drew Ryan receives Graduate Service Scholarship</a></h2>
+      <div class="article-style">
+        
+          Drew Ryan, an graduate student in the School of Nuclear Engineering at Purdue University, has been awarded a Graduate Student Service Scholarship.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/ARTH/post/kong_podcast/" >Dr. Ran Kong Featured on the Purdue Engineering Podcast</a></h2>
       <div class="article-style">
         
@@ -653,42 +727,6 @@
       </div>
     </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/ARTH/post/ryan-rickover/" >Drew Ryan receives prestigious Rickover Fellowship</a></h2>
-      <div class="article-style">
-        
-          Drew Ryan, an undergraduate student in the School of Nuclear Engineering at Purdue University, has been awarded a Rickover Fellowship from the Naval Reactors Division of the U.S. Department of Energy (DOE).
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/ARTH/post/kim-fellow/" >Seungjin Kim earns Highest ANS Recognition</a></h2>
-      <div class="article-style">
-        
-          Seungjin Kim, the Capt. James F. McCarthy Jr. &amp; Cheryl E. McCarthy Head of the School of Nuclear Engineering, has been elected to American Nuclear Society Fellow Grade, the highest membership grade of the ANS.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/ARTH/post/kim-head/" >Trustees approve professorships; honor retiring chancellor, donors</a></h2>
-      <div class="article-style">
-        
-          Seungjin Kim was named the Capt. James McCarthy, Jr., and Cheryl E. McCarthy Head of the School of Nuclear Engineering
-        
-      </div>
-    </div>
-  
 
   
 <nav>
@@ -696,6 +734,8 @@
     
     <li class="page-item"><a class="page-link" href="/ARTH/categories/news/page/2/">&laquo;</a></li>
     
+    
+    <li class="page-item"><a class="page-link" href="/ARTH/categories/news/page/4/">&raquo;</a></li>
     
   </ul>
 </nav>

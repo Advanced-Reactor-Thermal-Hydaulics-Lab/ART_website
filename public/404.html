@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8F9ES5J7FE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-8F9ES5J7FE', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -553,7 +591,15 @@
   <h2>Latest</h2>
   <ul>
     
+      <li><a href="/ARTH/publication/c2024_ryan_kim1/">One-Dimensional Drift Flux Analysis of Bubbly Flows in Horizontal and Inclined-Upward Orientations</a></li>
+    
+      <li><a href="/ARTH/post/2024-neup-revitalization/">ART will lead $6 million project to revitalize research infastructure</a></li>
+    
       <li><a href="/ARTH/post/ans-annual-2024/">ART Research presented at the 2024 ANS Annual Meeting</a></li>
+    
+      <li><a href="/ARTH/post/ioed/">ART studies SMRs for the Indiana Office of Energy Development (IOED)</a></li>
+    
+      <li><a href="/ARTH/post/2024-neup/">ART recieves funding from the US Department of Energy</a></li>
     
       <li><a href="/ARTH/post/ans-student-2024/">ART Research presented at the 2024 ANS Student Conference</a></li>
     
@@ -564,14 +610,6 @@
       <li><a href="/ARTH/gallery/group_photos/">Lab Group Photos</a></li>
     
       <li><a href="/ARTH/post/kim-taa/">Seungjin Kim recieves ANS Thermal-Hydraulics Division Technical Achievement Award</a></li>
-    
-      <li><a href="/ARTH/post/ans-winter-2023/">ART Research presented at the 2023 ANS Winter Meeting</a></li>
-    
-      <li><a href="/ARTH/post/nureth20/">ART Research presented at NURETH-20</a></li>
-    
-      <li><a href="/ARTH/publication/c2023_kang_ryan_kim1/">Flow Regime Classification Using Orientation-Independent Layered Spectral Clustering</a></li>
-    
-      <li><a href="/ARTH/publication/c2023_ryan_kim/">One-Dimensional Drift Flux Analysis of Bubbly Flows in Horizontal and Inclined-Upward Orientations</a></li>
     
   </ul>
   

@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8F9ES5J7FE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-8F9ES5J7FE', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -235,7 +273,7 @@
   <meta property="og:description" content="Thermal-hydraulics and Reactor Safety Laboratory at Purdue University School of Nuclear Engineering"><meta property="og:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg">
   <meta property="twitter:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-06-20T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-06-26T16:50:58&#43;02:00">
   
 
   
@@ -569,6 +607,273 @@
   
 
   
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/ARTH/post/trsl-nureth-best-movie/" >ART Students Win at NURETH-19</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Graduate students, led by Drew Ryan, win Best Movie Award at NURETH-19.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 10, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/ARTH/post/trsl-nureth-best-movie/" >
+      <img src="/ARTH/post/trsl-nureth-best-movie/featured_hu7edd4fb8449c4b77d7136ac3a47ca5b8_607640_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/ARTH/post/kang-nrc/" >David Kang selected for NRC Graduate Fellowship</a>
+    </h3>
+
+    
+    <div class="article-style">
+      David Kang, an undergraduate student in the School of Nuclear Engineering at Purdue University, has been awarded a Nuclear Regulatory Commission (NRC) Fellowship for continued studies at Purdue University.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 15, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/ARTH/post/kang-nrc/" >
+      <img src="/ARTH/post/kang-nrc/featured_hu3aa24df2ac1e2ed98612ef159211fd02_55963_150x0_resize_q90_lanczos.JPG" alt="">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/ARTH/post/ryan-service/" >Drew Ryan receives Graduate Service Scholarship</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Drew Ryan, an graduate student in the School of Nuclear Engineering at Purdue University, has been awarded a Graduate Student Service Scholarship.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 1, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/ARTH/post/ryan-service/" >
+      <img src="/ARTH/post/ryan-service/featured_hu46946c53820c1c815b7edde4958208eb_109232_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+    
   
     
       
@@ -1193,273 +1498,6 @@
 
     
   
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/ARTH/post/ryan-rickover/" >Drew Ryan receives prestigious Rickover Fellowship</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Drew Ryan, an undergraduate student in the School of Nuclear Engineering at Purdue University, has been awarded a Rickover Fellowship from the Naval Reactors Division of the U.S. Department of Energy (DOE).
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    May 5, 2018
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/ARTH/post/ryan-rickover/" >
-      <img src="/ARTH/post/ryan-rickover/featured_hu46946c53820c1c815b7edde4958208eb_109232_150x0_resize_q90_lanczos.jpg" alt="">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/ARTH/post/kim-fellow/" >Seungjin Kim earns Highest ANS Recognition</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Seungjin Kim, the Capt. James F. McCarthy Jr. &amp; Cheryl E. McCarthy Head of the School of Nuclear Engineering, has been elected to American Nuclear Society Fellow Grade, the highest membership grade of the ANS.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Nov 11, 2017
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/ARTH/post/kim-fellow/" >
-      <img src="/ARTH/post/kim-fellow/featured_hueb9e7fed502c144f3ef63e1cb935e655_28862_150x0_resize_q90_lanczos.jpg" alt="">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/ARTH/post/kim-head/" >Trustees approve professorships; honor retiring chancellor, donors</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Seungjin Kim was named the Capt. James McCarthy, Jr., and Cheryl E. McCarthy Head of the School of Nuclear Engineering
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Aug 4, 2017
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/ARTH/post/kim-head/" >
-      <img src="/ARTH/post/kim-head/featured_hu9683850491a297b01d4238699a1c4f8b_80583_150x0_resize_q90_lanczos.jpg" alt="">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
 
   
 <nav>
@@ -1467,6 +1505,8 @@
     
     <li class="page-item"><a class="page-link" href="/ARTH/post/page/2/">&laquo;</a></li>
     
+    
+    <li class="page-item"><a class="page-link" href="/ARTH/post/page/4/">&raquo;</a></li>
     
   </ul>
 </nav>

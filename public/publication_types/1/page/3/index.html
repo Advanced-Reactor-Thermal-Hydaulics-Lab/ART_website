@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8F9ES5J7FE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-8F9ES5J7FE', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -235,7 +273,7 @@
   <meta property="og:description" content="Thermal-hydraulics and Reactor Safety Laboratory at Purdue University School of Nuclear Engineering"><meta property="og:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg">
   <meta property="twitter:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-08-20T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-09-04T00:00:00&#43;00:00">
   
 
   
@@ -573,6 +611,36 @@
     
     
     <div>
+      <h2><a href="/ARTH/publication/c2016_kong_et_al_3/" >Image Analysis for Plug Bubble in Horizontal Flow</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/ARTH/publication/c2016_qiao_et_al_2/" >Interfacial Area Transport through Vertical-Downward Elbows in Air-Water Two-Phase Flow</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/ARTH/publication/c2016_mena_et_al/" >Characterization of the effects of 90-degree vertical-upward and vertical-downward elbows in bubbly two-phase flow</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/ARTH/publication/c2016_kong_et_al_2/" >Experimental Study of Horizontal Air-water Plug-to-Slug Transition Flow</a></h2>
       <div class="article-style">
         
@@ -634,36 +702,6 @@
     
     <div>
       <h2><a href="/ARTH/publication/c2015_qiao_et_al/" >Inlet effects on vertical-downward air-water two-phase flow</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/ARTH/publication/c2014_bernard_et_al/" >Considerations in the practical application of the multi-sensor conductivity probe for two-phase flow</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/ARTH/publication/c2014_worosz_kim/" >Experiments in cap-bubbly two-phase flows for two-group IATE development</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/ARTH/publication/c2014_wheeler_et_al/" >Experiments on the effects of a spacer grid in air-water two-phase flow</a></h2>
       <div class="article-style">
         
       </div>

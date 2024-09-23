@@ -76,3 +76,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [params]
   body_classes = "helvetica"
+
+[services]
+  [services.googleAnalytics]
+  ID = 'G-8F9ES5J7FE'

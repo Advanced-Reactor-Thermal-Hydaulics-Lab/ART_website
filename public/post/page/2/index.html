@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8F9ES5J7FE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-8F9ES5J7FE', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -235,7 +273,7 @@
   <meta property="og:description" content="Thermal-hydraulics and Reactor Safety Laboratory at Purdue University School of Nuclear Engineering"><meta property="og:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg">
   <meta property="twitter:image" content="https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-06-20T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-06-26T16:50:58&#43;02:00">
   
 
   
@@ -569,6 +607,268 @@
   
 
   
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/ARTH/post/ans-annual-2023/" >ART Research presented at the 2023 ANS Annual Meeting</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Several members of ART presented their research at the ANS Annual Meeting in Indianapolis, IN
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 14, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/ARTH/post/dix-service_early_career/" >Adam Dix receives Early-career Graduate Reserach Award and Graduate School Outstanding Service Scholarship</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Adam Dix, a graduate student in the School of Nuclear Engineering at Purdue University, has been awarded a Outstanding Student Service Scholarship from the Graduate School.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 1, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/ARTH/post/dix-service_early_career/" >
+      <img src="/ARTH/post/dix-service_early_career/featured_hu75a162df76c17b6b4ee853dba680a8a3_42930_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/ARTH/post/dix-alphanusigma/" >Adam Dix inducted into Alpha Nu Sigma Honor Society</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Adam Dix, a Ph.D. student in ART, has been inducted into Alpha Nu Sigma.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 18, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/ARTH/post/dix-alphanusigma/" >
+      <img src="/ARTH/post/dix-alphanusigma/featured_huea5e88036bc45bedc050004a9d79697f_470662_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+    
   
     
       
@@ -1186,273 +1486,6 @@
     
     <a href="/ARTH/post/ryan-service-ii/" >
       <img src="/ARTH/post/ryan-service-ii/featured_hu46946c53820c1c815b7edde4958208eb_109232_150x0_resize_q90_lanczos.jpg" alt="">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/ARTH/post/trsl-nureth-best-movie/" >ART Students Win at NURETH-19</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Graduate students, led by Drew Ryan, win Best Movie Award at NURETH-19.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Mar 10, 2022
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/ARTH/post/trsl-nureth-best-movie/" >
-      <img src="/ARTH/post/trsl-nureth-best-movie/featured_hu7edd4fb8449c4b77d7136ac3a47ca5b8_607640_150x0_resize_lanczos_2.png" alt="">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/ARTH/post/kang-nrc/" >David Kang selected for NRC Graduate Fellowship</a>
-    </h3>
-
-    
-    <div class="article-style">
-      David Kang, an undergraduate student in the School of Nuclear Engineering at Purdue University, has been awarded a Nuclear Regulatory Commission (NRC) Fellowship for continued studies at Purdue University.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    May 15, 2021
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/ARTH/post/kang-nrc/" >
-      <img src="/ARTH/post/kang-nrc/featured_hu3aa24df2ac1e2ed98612ef159211fd02_55963_150x0_resize_q90_lanczos.JPG" alt="">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/ARTH/post/ryan-service/" >Drew Ryan receives Graduate Service Scholarship</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Drew Ryan, an graduate student in the School of Nuclear Engineering at Purdue University, has been awarded a Graduate Student Service Scholarship.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    May 1, 2021
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/ARTH/categories/news/">News</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/ARTH/post/ryan-service/" >
-      <img src="/ARTH/post/ryan-service/featured_hu46946c53820c1c815b7edde4958208eb_109232_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>

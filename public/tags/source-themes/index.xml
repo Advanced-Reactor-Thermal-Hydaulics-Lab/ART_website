@@ -5,7 +5,7 @@
     <link>https://engineering.purdue.edu/ARTH/tags/source-themes/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Source Themes</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>One-Dimensional Drift Flux Analysis of Bubbly Flows in Horizontal and Inclined-Upward Orientations</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_kim1/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_kim1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of local parameters of inclined upward air–water bubbly two-phase flows in a round pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_kim2/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_kim2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flow Regime Classification Using Orientation-Independent Layered Spectral Clustering</title>
       <link>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim1/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/publication/c2023_kang_ryan_kim1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport modeling of air–water bubbly two-phase flows in inclined orientations</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al/</guid>
       <description></description>
     </item>
     

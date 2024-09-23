@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8F9ES5J7FE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-8F9ES5J7FE', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -1037,15 +1075,15 @@
     <h3>Related</h3>
     <ul>
       
+      <li><a href="/ARTH/publication/c2024_ryan_kim2/">Characterization of local parameters of inclined upward air–water bubbly two-phase flows in a round pipe</a></li>
+      
       <li><a href="/ARTH/publication/c2023_kang_ryan_kim1/">Flow Regime Classification Using Orientation-Independent Layered Spectral Clustering</a></li>
+      
+      <li><a href="/ARTH/publication/c2024_ryan_et_al/">Interfacial area transport modeling of air–water bubbly two-phase flows in inclined orientations</a></li>
       
       <li><a href="/ARTH/publication/c2023_ryan_kim/">One-Dimensional Drift Flux Analysis of Bubbly Flows in Horizontal and Inclined-Upward Orientations</a></li>
       
       <li><a href="/ARTH/publication/c2022_dix_kim/">A Novel Friction Factor Model for Wire-Wrapped Rod Bundles</a></li>
-      
-      <li><a href="/ARTH/publication/c2022_ryan_kim/">Evaluation of Computational Fluid Dynamic Models for Bubbly Two-Phase Flows in Inclined Upward Orientations</a></li>
-      
-      <li><a href="/ARTH/publication/c2022_dix_quan_kim/">Evaluation of Pressure Drop Models for 7-Pin Wire-wrapped Rod Bundles</a></li>
       
     </ul>
   </div>

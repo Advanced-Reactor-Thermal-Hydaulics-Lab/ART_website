@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8F9ES5J7FE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-8F9ES5J7FE', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -683,44 +721,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-<figure id="figure-zhengting-quan-presents-his-research">
-
-
-  <a data-fancybox="" href="/ARTH/post/ans-annual-2024/featured_hu527485c64c9db666586d4bdee3067a8b_428053_2000x2000_fit_q90_lanczos.jpg" data-caption="Zhengting Quan presents his research">
-
-
-  <img data-src="/ARTH/post/ans-annual-2024/featured_hu527485c64c9db666586d4bdee3067a8b_428053_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="1600" height="1200">
-</a>
-
-
-  
-  
-  <figcaption>
-    Zhengting Quan presents his research
-  </figcaption>
-
-
-</figure>
-
-<p>At the 2024 ANS Annual Meeting in Las Vegas, NV, Zhengting Quan presented two papers, titled &ldquo;Experimental Analysis of Air-Water Two-Phase Bubbly Flow Across a Vertical U-Bend&rdquo; and &ldquo;Investigation of Two-Phase Pressure Drop Across a Vertical U-Bend&rdquo;</p>
+      <p>At the 2024 ANS Annual Meeting in Las Vegas, NV, Zhengting Quan presented two papers, titled &ldquo;Experimental Analysis of Air-Water Two-Phase Bubbly Flow Across a Vertical U-Bend&rdquo; and &ldquo;Investigation of Two-Phase Pressure Drop Across a Vertical U-Bend&rdquo;</p>
 
     </div>
 
