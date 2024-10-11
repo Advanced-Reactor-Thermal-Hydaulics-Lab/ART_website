@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: B.S. 2025
 
 # Organizations/Affiliations
 organizations:

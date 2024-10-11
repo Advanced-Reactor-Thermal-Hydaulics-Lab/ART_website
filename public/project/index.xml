@@ -5,12 +5,34 @@
     <link>https://engineering.purdue.edu/ARTH/project/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Projects</title>
       <link>https://engineering.purdue.edu/ARTH/project/</link>
     </image>
+    
+    <item>
+      <title>RGB Flow Pattern Mapping and Classification</title>
+      <link>https://engineering.purdue.edu/ARTH/project/rgb-flow-pattern-mapping/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/rgb-flow-pattern-mapping/</guid>
+      <description>&lt;p&gt;Two-phase flow regimes are categorizations of flow patterns based on the geometric characteristics of the interface between phases. Flow regimes are widely implemented in thermal-hydraulics and reactor safety simulation tools. It is therefore crucial to properly classify flow conditions into their respective regimes to design and operate multiphase flow systems. The traditional approach to flow regime classification entails recording two-phase flows in transparent pipes with high-speed video cameras and making subjective judgements about the flow based on visualization. After taking videos for multiple flow conditions, flow regime transition boundaries are drawn onto a map.&lt;/p&gt;
+&lt;p&gt;Not only is this methodology inherently subjective, it misrepresents flow pattern development as an instantaneous transition and introduces numerical instabilities as correlations on either side of a transition fail to converge to a single solution along the boundary. This is often artificially treated by smoothing the solutions. Additionally, pipe inclination introduces additional complexity that makes visual classification of flow regimes challenging.&lt;/p&gt;
+&lt;p&gt;ART has developed a novel approach to flow pattern identification and classification which is applicable to any pipe inclination, and which presents flow pattern transitions as continuous gradients based on experimental impedance meter signals obtained with the separate effects test facility.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Separate Effects of Curvature on Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/project/curvature-effects/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/curvature-effects/</guid>
+      <description>&lt;p&gt;When fluid moves through curved sections, such as 90- or 180-degree bends, the centrifugal forces and changes in flow dynamics can significantly impact phase distribution, pressure drop, void fraction, and heat transfer efficiency.&lt;/p&gt;
+&lt;p&gt;ART has established a separate effects test facility to study both the effects of inclination on two-phase flows, as well as the effects of pipe bend curvature.&lt;/p&gt;
+&lt;p&gt;Experiments are performed with a variety of state-of-the-art instrumentation, including high-speed video camera, an impedance meter, local four-sensor conductivity probes, and gamma densitometry.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Objective Flow Regime Identification for Inclined Two-Phase Flows</title>
@@ -110,12 +132,12 @@
     </item>
     
     <item>
-      <title>Separate effects of inclination on two-phase flow</title>
+      <title>Separate Effects of Inclination on Two-Phase Flow</title>
       <link>https://engineering.purdue.edu/ARTH/project/inclined-two-phase-flow/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/project/inclined-two-phase-flow/</guid>
       <description>&lt;p&gt;Two-phase flow in an inclined pipe, i.e. not perfectly horizontal or vertical, has a number of important applications such as oil and gas pipelines, and helical coil steam generators. Despite this, there is limited study on the inclined two-phase flows. A large body of research exists on vertical two-phase flows, where the buoyancy force is parallel to the flow direction. Recent studies have systematically investigated horizontal two-phase flows, showing the effects of buoyancy acting perpendicular to the flow direction. Varying the angle of inclination can yield different body force effects from either vertical or horizontal, which can affect the void distribution, flow regime transitions, pressure drop, relative motion between gas and liquid phases.&lt;/p&gt;
-&lt;p&gt;ART has established a separate effects test facility to study both the effects of inclination on two-phase flows, as well as the conventional inverted U steam generator. A photo of the facility is shown in Figure 1.&lt;/p&gt;
+&lt;p&gt;ART has established a separate effects test facility to study both the effects of inclination on two-phase flows, as well as the effects of curvature. A photo of the facility is shown in Figure 1.&lt;/p&gt;
 
 
 

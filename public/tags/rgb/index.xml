@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RGB | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/tags/rgb/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/tags/rgb/index.xml" rel="self" type="application/rss+xml" />
+    <description>RGB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>RGB</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/rgb/</link>
+    </image>
+    
+    <item>
+      <title>RGB Flow Pattern Mapping and Classification</title>
+      <link>https://engineering.purdue.edu/ARTH/project/rgb-flow-pattern-mapping/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/rgb-flow-pattern-mapping/</guid>
+      <description>&lt;p&gt;Two-phase flow regimes are categorizations of flow patterns based on the geometric characteristics of the interface between phases. Flow regimes are widely implemented in thermal-hydraulics and reactor safety simulation tools. It is therefore crucial to properly classify flow conditions into their respective regimes to design and operate multiphase flow systems. The traditional approach to flow regime classification entails recording two-phase flows in transparent pipes with high-speed video cameras and making subjective judgements about the flow based on visualization. After taking videos for multiple flow conditions, flow regime transition boundaries are drawn onto a map.&lt;/p&gt;
+&lt;p&gt;Not only is this methodology inherently subjective, it misrepresents flow pattern development as an instantaneous transition and introduces numerical instabilities as correlations on either side of a transition fail to converge to a single solution along the boundary. This is often artificially treated by smoothing the solutions. Additionally, pipe inclination introduces additional complexity that makes visual classification of flow regimes challenging.&lt;/p&gt;
+&lt;p&gt;ART has developed a novel approach to flow pattern identification and classification which is applicable to any pipe inclination, and which presents flow pattern transitions as continuous gradients based on experimental impedance meter signals obtained with the separate effects test facility.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

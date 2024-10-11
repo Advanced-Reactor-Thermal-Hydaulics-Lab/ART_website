@@ -5,7 +5,7 @@
     <link>https://engineering.purdue.edu/ARTH/authors/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://engineering.purdue.edu/ARTH/authors/ryan103/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/authors/ryan103/</guid>
       <description>&lt;p&gt;Drew is an Advanced Engineer at Bettis Atomic Power Laboratory.&lt;/p&gt;
 &lt;p&gt;Drew Ryan was a Ph.D. student and 
@@ -89,7 +89,7 @@
     <item>
       <title></title>
       <link>https://engineering.purdue.edu/ARTH/authors/quanz/</link>
-      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/authors/quanz/</guid>
       <description>&lt;p&gt;Zhengting Quan is a Ph.D. student and Ross Fellow at Purdue University. He is currently working on experiemntal and numerical investigations of two-phase flows.&lt;/p&gt;
 </description>
@@ -133,6 +133,15 @@
     
     <item>
       <title></title>
+      <link>https://engineering.purdue.edu/ARTH/authors/astoppel/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/authors/astoppel/</guid>
+      <description>&lt;p&gt;Alicja Stoppel is an Undergraduate Student in Nuclear Engineering at Purdue University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://engineering.purdue.edu/ARTH/authors/adix/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/authors/adix/</guid>
@@ -142,10 +151,10 @@
     
     <item>
       <title></title>
-      <link>https://engineering.purdue.edu/ARTH/authors/astoppel/</link>
+      <link>https://engineering.purdue.edu/ARTH/authors/bsapoff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://engineering.purdue.edu/ARTH/authors/astoppel/</guid>
-      <description>&lt;p&gt;Alicja Stoppel is an Undergraduate Student in Nuclear Engineering at Purdue University.&lt;/p&gt;
+      <guid>https://engineering.purdue.edu/ARTH/authors/bsapoff/</guid>
+      <description>&lt;p&gt;Bradley Harrison is a Junior in Nuclear Engineering at Purdue University.&lt;/p&gt;
 </description>
     </item>
     
@@ -155,6 +164,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/authors/jacks853/</guid>
       <description>&lt;p&gt;John Jackson is an undergraduate in the School of Nuclear Engineering at Purdue University pursuing research in thermal hydraulics&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://engineering.purdue.edu/ARTH/authors/rhogg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/authors/rhogg/</guid>
+      <description>&lt;p&gt;Ryan Hogg is a Graduate Student in Nuclear Engineering at Purdue University. He commissioned as a Navy Pilot from the US Naval Academy in Annapolis, MD, and graduated with a B.S. In Mechanical Engineering in 2024.&lt;/p&gt;
 </description>
     </item>
     
@@ -448,9 +466,14 @@
     <item>
       <title></title>
       <link>https://engineering.purdue.edu/ARTH/authors/kang284/</link>
-      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/authors/kang284/</guid>
-      <description>&lt;p&gt;David Kang is a Graduate student in Nuclear Engineering at Purdue University.&lt;/p&gt;
+      <description>&lt;p&gt;David Kang is a Rickover Fellow in Nuclear Engineering at Purdue University. He graduated from Purdue University with a B.S. in 2021 and a M.S. in 2023, both in Nuclear Engineering.&lt;/p&gt;
+&lt;h4 id=&#34;honors-and-awards&#34;&gt;Honors and Awards&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;NRC Fellowship, 2021-2023&lt;/li&gt;
+&lt;li&gt;Rickover Fellowship, awarded 2023&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

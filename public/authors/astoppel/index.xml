@@ -5,12 +5,23 @@
     <link>https://engineering.purdue.edu/ARTH/authors/astoppel/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/authors/astoppel/index.xml" rel="self" type="application/rss+xml" />
     <description>ART</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>ART</title>
       <link>https://engineering.purdue.edu/ARTH/authors/astoppel/</link>
     </image>
+    
+    <item>
+      <title>Separate Effects of Curvature on Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/project/curvature-effects/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/curvature-effects/</guid>
+      <description>&lt;p&gt;When fluid moves through curved sections, such as 90- or 180-degree bends, the centrifugal forces and changes in flow dynamics can significantly impact phase distribution, pressure drop, void fraction, and heat transfer efficiency.&lt;/p&gt;
+&lt;p&gt;ART has established a separate effects test facility to study both the effects of inclination on two-phase flows, as well as the effects of pipe bend curvature.&lt;/p&gt;
+&lt;p&gt;Experiments are performed with a variety of state-of-the-art instrumentation, including high-speed video camera, an impedance meter, local four-sensor conductivity probes, and gamma densitometry.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,23 @@
     <link>https://engineering.purdue.edu/ARTH/authors/quanz/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/authors/quanz/index.xml" rel="self" type="application/rss+xml" />
     <description>ART</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>ART</title>
       <link>https://engineering.purdue.edu/ARTH/authors/quanz/</link>
     </image>
+    
+    <item>
+      <title>Separate Effects of Curvature on Two-Phase Flow</title>
+      <link>https://engineering.purdue.edu/ARTH/project/curvature-effects/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/curvature-effects/</guid>
+      <description>&lt;p&gt;When fluid moves through curved sections, such as 90- or 180-degree bends, the centrifugal forces and changes in flow dynamics can significantly impact phase distribution, pressure drop, void fraction, and heat transfer efficiency.&lt;/p&gt;
+&lt;p&gt;ART has established a separate effects test facility to study both the effects of inclination on two-phase flows, as well as the effects of pipe bend curvature.&lt;/p&gt;
+&lt;p&gt;Experiments are performed with a variety of state-of-the-art instrumentation, including high-speed video camera, an impedance meter, local four-sensor conductivity probes, and gamma densitometry.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Interfacial area transport modeling of air–water bubbly two-phase flows in inclined orientations</title>
@@ -41,12 +52,12 @@
     </item>
     
     <item>
-      <title>Separate effects of inclination on two-phase flow</title>
+      <title>Separate Effects of Inclination on Two-Phase Flow</title>
       <link>https://engineering.purdue.edu/ARTH/project/inclined-two-phase-flow/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/project/inclined-two-phase-flow/</guid>
       <description>&lt;p&gt;Two-phase flow in an inclined pipe, i.e. not perfectly horizontal or vertical, has a number of important applications such as oil and gas pipelines, and helical coil steam generators. Despite this, there is limited study on the inclined two-phase flows. A large body of research exists on vertical two-phase flows, where the buoyancy force is parallel to the flow direction. Recent studies have systematically investigated horizontal two-phase flows, showing the effects of buoyancy acting perpendicular to the flow direction. Varying the angle of inclination can yield different body force effects from either vertical or horizontal, which can affect the void distribution, flow regime transitions, pressure drop, relative motion between gas and liquid phases.&lt;/p&gt;
-&lt;p&gt;ART has established a separate effects test facility to study both the effects of inclination on two-phase flows, as well as the conventional inverted U steam generator. A photo of the facility is shown in Figure 1.&lt;/p&gt;
+&lt;p&gt;ART has established a separate effects test facility to study both the effects of inclination on two-phase flows, as well as the effects of curvature. A photo of the facility is shown in Figure 1.&lt;/p&gt;
 
 
 

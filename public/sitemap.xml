@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/ryan103/</loc>
-    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -39,7 +39,7 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/quanz/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -60,16 +60,25 @@
   </url>
   
   <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/astoppel/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/adix/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://engineering.purdue.edu/ARTH/authors/astoppel/</loc>
+    <loc>https://engineering.purdue.edu/ARTH/authors/bsapoff/</loc>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/jacks853/</loc>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/rhogg/</loc>
   </url>
   
   <url>
@@ -222,7 +231,7 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/kang284/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -235,22 +244,77 @@
   </url>
   
   <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/active/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/curvature/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/experiments/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/flow-regime-transition/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/project/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/rgb/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/project/rgb-flow-pattern-mapping/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/project/curvature-effects/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/two-phase-flow/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/u-bend/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/skim/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/publication_types/1/</loc>
-    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/</loc>
-    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/authors/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -271,11 +335,6 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/tags/source-themes/</loc>
-    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/tags/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -475,37 +534,12 @@
   </url>
   
   <url>
-    <loc>https://engineering.purdue.edu/ARTH/tags/active/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/tags/experiments/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/tags/flow-regime-transition/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://engineering.purdue.edu/ARTH/tags/machine-learning/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/project/inclined-flow-regime-identification/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/project/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/tags/two-phase-flow/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url>
   
