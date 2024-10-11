@@ -1,7 +1,7 @@
 ---
 title: Experimental Study and CFD Design Tool Development for the Cartridge Loop in the Versatile Test Reactor (VTR)
 subtitle: Research Supported by the United States Department of Energy
-summary: Scaling analysis and Computational Fluid Dynamics analysos of the Versatile Test Reactor
+summary: Scaling analysis and Computational Fluid Dynamics analysis of the Versatile Test Reactor
 tags:
 - Active
 - CFD
