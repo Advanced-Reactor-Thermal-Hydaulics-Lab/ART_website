@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Jack Jackson
-weight: 30
+weight: 85
 # Username (this should match the folder name)
 authors:
 - jacks853
@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 John Jackson is an undergraduate in the School of Nuclear Engineering at Purdue University pursuing research in thermal hydraulics
