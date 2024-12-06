@@ -1,15 +1,18 @@
 ---
-title: "One-Dimensional Drift Flux Analysis of Bubbly Flows in Horizontal and Inclined-Upward Orientations"
+title: "Experimental Study and Model Assessment for Void Fraction in Different Orientations and Flow Regimes in Air-Water Two-Phase Flows"
 authors:
 
 - ryan103
+- kang284
+- quanz
+- adix
 - skim
 
-date: "2024-09-04T00:00:00Z"
+date: "2024-12-050T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-04T00:00:00Z"
-doi: "doi.org/10.1080/00295639.2024.2385777"
+publishDate: "2024-11-280T00:00:00Z"
+doi: doi.org/10.1016/j.geoen.2024.213531
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +21,7 @@ doi: "doi.org/10.1080/00295639.2024.2385777"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nuclear Science and Engineering*"
+publication: "*Geoenergy Science and Engineering*"
 
 abstract: ''
 

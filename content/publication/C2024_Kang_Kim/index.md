@@ -1,15 +1,15 @@
 ---
-title: "One-Dimensional Drift Flux Analysis of Bubbly Flows in Horizontal and Inclined-Upward Orientations"
+title: "RGB Mapping: A Dynamic Approach for Flow Pattern Identification and Classification"
 authors:
 
-- ryan103
+- kang284
 - skim
 
-date: "2024-09-04T00:00:00Z"
+date: "2024-12-05T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-04T00:00:00Z"
-doi: "doi.org/10.1080/00295639.2024.2385777"
+publishDate: "2024-10-11T00:00:00Z"
+doi: "doi.org/10.1080/00295639.2024.2406719"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
