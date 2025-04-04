@@ -69,4 +69,4 @@ user_groups:
 - Alumni
 ---
 
-Zhengting Quan is a Ph.D. student and Ross Fellow at Purdue University. He is currently working on experimental and numerical investigations of two-phase flows. 
+Zhengting Quan is currently a post-doctoral fellow at the University of Missouri. 
