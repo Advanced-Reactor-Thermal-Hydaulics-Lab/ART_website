@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/adix/</loc>
+    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/quanz/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/ryan103/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url>
@@ -38,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://engineering.purdue.edu/ARTH/authors/quanz/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/yliu/</loc>
   </url>
   
@@ -65,16 +70,12 @@
   </url>
   
   <url>
-    <loc>https://engineering.purdue.edu/ARTH/authors/adix/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/authors/bsapoff/</loc>
-  </url>
-  
-  <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/rhogg/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/pkilzer/</loc>
   </url>
   
   <url>
@@ -174,6 +175,10 @@
   </url>
   
   <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/bsapoff/</loc>
+  </url>
+  
+  <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/jacks853/</loc>
   </url>
   
@@ -244,6 +249,56 @@
   </url>
   
   <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/academic/</loc>
+    <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/post/dix-phd-defense/</loc>
+    <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/</loc>
+    <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/categories/</loc>
+    <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/categories/news/</loc>
+    <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/post/</loc>
+    <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/</loc>
+    <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/smr/</loc>
+    <lastmod>2025-03-12T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/post/smr-seminar/</loc>
+    <lastmod>2025-03-12T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/post/dix-seminar/</loc>
+    <lastmod>2025-02-12T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/skim/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url>
@@ -254,17 +309,7 @@
   </url>
   
   <url>
-    <loc>https://engineering.purdue.edu/ARTH/tags/academic/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://engineering.purdue.edu/ARTH/post/stoppel-nea/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -279,27 +324,12 @@
   </url>
   
   <url>
-    <loc>https://engineering.purdue.edu/ARTH/categories/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://engineering.purdue.edu/ARTH/gallery/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/gallery/nea-rising-stars-2024/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/categories/news/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/post/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -320,11 +350,6 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/tags/source-themes/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/tags/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -396,6 +421,16 @@
   <url>
     <loc>https://engineering.purdue.edu/ARTH/post/ioed/</loc>
     <lastmod>2024-05-02T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/tags/previous/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/project/smr/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -685,11 +720,6 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/project/niowave-hyst/</loc>
-    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/tags/previous/</loc>
     <lastmod>2020-06-27T00:00:00+00:00</lastmod>
   </url>
   

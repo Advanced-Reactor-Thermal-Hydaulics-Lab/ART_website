@@ -2,7 +2,7 @@
 title: Wire-Wrapped Rod Bundle Experiments and Pressure Drop Modeling
 summary: 
 tags:
-- Active
+- Previous
 - Wire-Wrapped Rod Bundles
 - VTR
 - Experiments

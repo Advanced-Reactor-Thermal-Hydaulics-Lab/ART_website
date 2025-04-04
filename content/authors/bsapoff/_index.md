@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Bradley Sapoff
-weight: 30
+weight: 84
 # Username (this should match the folder name)
 authors:
 - bsapoff
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: B.S. 2025
 
 # Organizations/Affiliations
 organizations:

@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 tags:
-- Academic
+- SMR
 categories:
 - News
 date: "2025-03-12T16:50:58+02:00"

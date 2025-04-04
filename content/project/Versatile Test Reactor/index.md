@@ -3,7 +3,7 @@ title: Experimental Study and CFD Design Tool Development for the Cartridge Loop
 subtitle: Research Supported by the United States Department of Energy
 summary: Scaling analysis and Computational Fluid Dynamics analysis of the Versatile Test Reactor
 tags:
-- Active
+- Previous
 - CFD
 - Scaling
 date: "2020-08-27T00:00:00Z"

@@ -5,7 +5,7 @@
     <link>https://engineering.purdue.edu/ARTH/tags/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 16:50:58 +0200</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Tags</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Academic</title>
       <link>https://engineering.purdue.edu/ARTH/tags/academic/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Apr 2025 16:50:58 +0200</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMR</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/smr/</link>
+      <pubDate>Wed, 12 Mar 2025 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/tags/smr/</guid>
       <description></description>
     </item>
     
@@ -85,6 +93,14 @@
     </item>
     
     <item>
+      <title>Previous</title>
+      <link>https://engineering.purdue.edu/ARTH/tags/previous/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/tags/previous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>https://engineering.purdue.edu/ARTH/tags/machine-learning/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
@@ -137,14 +153,6 @@
       <link>https://engineering.purdue.edu/ARTH/tags/advanced-reactors/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/tags/advanced-reactors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Previous</title>
-      <link>https://engineering.purdue.edu/ARTH/tags/previous/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://engineering.purdue.edu/ARTH/tags/previous/</guid>
       <description></description>
     </item>
     

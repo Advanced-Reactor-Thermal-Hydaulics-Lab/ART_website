@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Zhengting Quan
-weight: 20
+weight: 8
 # Username (this should match the folder name)
 authors:
 - quanz

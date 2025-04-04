@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hoggr | ART</title>
+    <link>https://engineering.purdue.edu/ARTH/authors/hoggr/</link>
+      <atom:link href="https://engineering.purdue.edu/ARTH/authors/hoggr/index.xml" rel="self" type="application/rss+xml" />
+    <description>hoggr</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
+      <title>hoggr</title>
+      <link>https://engineering.purdue.edu/ARTH/authors/hoggr/</link>
+    </image>
+    
+    <item>
+      <title>STUDY ON SMALL MODULAR REACTOR TECHNOLOGY AND ITS IMPACT FOR INDIANA</title>
+      <link>https://engineering.purdue.edu/ARTH/project/smr/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/smr/</guid>
+      <description>&lt;p&gt;Purdue University has been selected by the Indiana Office of Energy Development (IOED) to research small modular nuclear reactor (SMR) technology and analyze the potential impacts should the technology be deployed in Indiana. The Advanced Reactor Thermal-hydraulics Laboratory, led by Dr. Seungjin Kim, will spearhead this effort. This partnership comes following Purdue’s selection as the successful respondent to IOED’s Request for Proposals for an Indiana-focused SMR study.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

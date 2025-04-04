@@ -5,12 +5,40 @@
     <link>https://engineering.purdue.edu/ARTH/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/index.xml" rel="self" type="application/rss+xml" />
     <description>ART</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 16:50:58 +0200</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>ART</title>
       <link>https://engineering.purdue.edu/ARTH/</link>
     </image>
+    
+    <item>
+      <title>Adam Dix successfully defends Ph.D. Dissertation</title>
+      <link>https://engineering.purdue.edu/ARTH/post/dix-phd-defense/</link>
+      <pubDate>Fri, 04 Apr 2025 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/dix-phd-defense/</guid>
+      <description>&lt;p&gt;ART student Adam Dix has successfully defended his dissertation titled &amp;ldquo;Experiments and Modeling of Relative Velocity in Non-vertical Bubbly Two-phase Flows&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Adam will be moving on to the Naval Nuclear Laboratories. Congratulations Adam!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SMR Feasibility Study Presented at Seminar</title>
+      <link>https://engineering.purdue.edu/ARTH/post/smr-seminar/</link>
+      <pubDate>Wed, 12 Mar 2025 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/smr-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Dix Presents PhD Work at Seminar</title>
+      <link>https://engineering.purdue.edu/ARTH/post/dix-seminar/</link>
+      <pubDate>Wed, 12 Feb 2025 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/dix-seminar/</guid>
+      <description>&lt;p&gt;Adam Dix is a Ph.D. Candidate in Nuclear Engineering at Purdue University. He earned both his M.S. and B.S. in Nuclear Engineering from Purdue in 2020 and 2022 respectively. Mr. Dix’s research focuses on nuclear reactor thermal-hydraulics, specifically better understanding two-phase flow hydrodynamics through experiments and simulations. He is also interested in liquid metal thermal-hydraulics, including the pressure drop in wire-wrapped rod bundles. Mr. Dix’s work has won first place in the Innovations in Nuclear Student Competition from the US Department of Energy, and the NURETH-19 movie competition.&lt;/p&gt;
+&lt;p&gt;Two-phase flows have many important industrial applications, including in nuclear reactor coolant systems. Due to the density difference between gas and liquid, buoyancy effects can have a significant impact on two-phase parameters, and thus the orientation of the flow is a major factor impacting system performance and safety. Despite this, most two-phase experiments and models have focused on vertical upwards flows. There are few experiments in literature that measured both local liquid and gas velocity profiles in non-vertical, which are key to understanding and modeling the relative velocity. Twelve fully developed horizontal bubbly flow conditions are measured and presented in the current work, with the trends in relative velocity analyzed. The relative velocity is negative throughout the pipe cross-section when in a horizontal orientation and becomes more negative with increasing void fraction. With this newly established database, a model is then proposed to predict the relative velocity in horizontal bubbly flows, accounting for bubble wake interactions. The model is able to predict the void-weighted area-average velocity within 10%, and the local relative velocity with an average absolute percent difference of 20%.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Alicja Stoppel selected as a 2024 NEA Global Forum Rising Star</title>
@@ -589,6 +617,15 @@
 &lt;p&gt;“Purdue began seriously researching the practical application of small modular nuclear technology with Duke Energy in 2022 when we kicked off our joint feasibility study,” said Ryan Gallagher, associate vice president of Purdue Facilities Operations and Environmental Health and Safety and a co-PI for the project. “Since then, we have continued to expand our knowledge on topics including technology development, approval and implementation timelines, siting considerations and other factors that position us well to help the state evaluate the potential benefits SMRs could bring to Indiana.”&lt;/p&gt;
 &lt;p&gt;Work on the SMR study began earlier this year and will be completed by Oct. 31, 2024.&lt;/p&gt;
 &lt;p&gt;Credit: &lt;a href=&#34;https://www.purdue.edu/newsroom/2024/Q2/purdue-university-chosen-by-indiana-office-of-energy-development-for-small-modular-nuclear-reactor-study//&#34;&gt;https://www.purdue.edu/newsroom/2024/Q2/purdue-university-chosen-by-indiana-office-of-energy-development-for-small-modular-nuclear-reactor-study//&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STUDY ON SMALL MODULAR REACTOR TECHNOLOGY AND ITS IMPACT FOR INDIANA</title>
+      <link>https://engineering.purdue.edu/ARTH/project/smr/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/project/smr/</guid>
+      <description>&lt;p&gt;Purdue University has been selected by the Indiana Office of Energy Development (IOED) to research small modular nuclear reactor (SMR) technology and analyze the potential impacts should the technology be deployed in Indiana. The Advanced Reactor Thermal-hydraulics Laboratory, led by Dr. Seungjin Kim, will spearhead this effort. This partnership comes following Purdue’s selection as the successful respondent to IOED’s Request for Proposals for an Indiana-focused SMR study.&lt;/p&gt;
 </description>
     </item>
     

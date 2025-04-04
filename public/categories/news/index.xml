@@ -5,12 +5,40 @@
     <link>https://engineering.purdue.edu/ARTH/categories/news/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/categories/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 16:50:58 +0200</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>News</title>
       <link>https://engineering.purdue.edu/ARTH/categories/news/</link>
     </image>
+    
+    <item>
+      <title>Adam Dix successfully defends Ph.D. Dissertation</title>
+      <link>https://engineering.purdue.edu/ARTH/post/dix-phd-defense/</link>
+      <pubDate>Fri, 04 Apr 2025 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/dix-phd-defense/</guid>
+      <description>&lt;p&gt;ART student Adam Dix has successfully defended his dissertation titled &amp;ldquo;Experiments and Modeling of Relative Velocity in Non-vertical Bubbly Two-phase Flows&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Adam will be moving on to the Naval Nuclear Laboratories. Congratulations Adam!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SMR Feasibility Study Presented at Seminar</title>
+      <link>https://engineering.purdue.edu/ARTH/post/smr-seminar/</link>
+      <pubDate>Wed, 12 Mar 2025 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/smr-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Dix Presents PhD Work at Seminar</title>
+      <link>https://engineering.purdue.edu/ARTH/post/dix-seminar/</link>
+      <pubDate>Wed, 12 Feb 2025 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/dix-seminar/</guid>
+      <description>&lt;p&gt;Adam Dix is a Ph.D. Candidate in Nuclear Engineering at Purdue University. He earned both his M.S. and B.S. in Nuclear Engineering from Purdue in 2020 and 2022 respectively. Mr. Dix’s research focuses on nuclear reactor thermal-hydraulics, specifically better understanding two-phase flow hydrodynamics through experiments and simulations. He is also interested in liquid metal thermal-hydraulics, including the pressure drop in wire-wrapped rod bundles. Mr. Dix’s work has won first place in the Innovations in Nuclear Student Competition from the US Department of Energy, and the NURETH-19 movie competition.&lt;/p&gt;
+&lt;p&gt;Two-phase flows have many important industrial applications, including in nuclear reactor coolant systems. Due to the density difference between gas and liquid, buoyancy effects can have a significant impact on two-phase parameters, and thus the orientation of the flow is a major factor impacting system performance and safety. Despite this, most two-phase experiments and models have focused on vertical upwards flows. There are few experiments in literature that measured both local liquid and gas velocity profiles in non-vertical, which are key to understanding and modeling the relative velocity. Twelve fully developed horizontal bubbly flow conditions are measured and presented in the current work, with the trends in relative velocity analyzed. The relative velocity is negative throughout the pipe cross-section when in a horizontal orientation and becomes more negative with increasing void fraction. With this newly established database, a model is then proposed to predict the relative velocity in horizontal bubbly flows, accounting for bubble wake interactions. The model is able to predict the void-weighted area-average velocity within 10%, and the local relative velocity with an average absolute percent difference of 20%.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Alicja Stoppel selected as a 2024 NEA Global Forum Rising Star</title>
