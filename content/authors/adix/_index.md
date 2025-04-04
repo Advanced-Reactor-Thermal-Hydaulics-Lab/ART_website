@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. 2025
 
 # Organizations/Affiliations
 organizations:
@@ -34,6 +34,9 @@ education:
   - course: M.S. in Nuclear Engineering
     institution: Purdue University
     year: 2022
+  - course: Ph.D. in Nuclear Engineering
+    institution: Purdue University
+    year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,7 +67,14 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
-Adam Dix is an Graduate Student in Nuclear Engineering at Purdue University. He graduated from Purdue University with a B.S. in 2020 and a M.S. in 2022, both in Nuclear Engineering.
+Adam Dix is an engineer at the Naval Nuclear Laboratories. He graduated from Purdue University with a B.S. in 2020, M.S. in 2022, and Ph.D. in 2025, all in Nuclear Engineering.
+
+#### Honors and Awards
+ - Graduate Student Recognition Seminar, Purdue University School of Nuclear Engineering, 2025
+ - Innovations in Nuclear Energy Research and Development Student Competition (INSC), First Place Open Competition, 2023
+ - Early Career Graduate Research Award, Purdue University School of Nuclear Engineering, 2023
+ - Outstanding Graduate Service Scholarship, 2023
+ - UNLP Fellowship, awarded 2020

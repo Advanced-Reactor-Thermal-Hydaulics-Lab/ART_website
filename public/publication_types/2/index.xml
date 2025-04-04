@@ -5,12 +5,44 @@
     <link>https://engineering.purdue.edu/ARTH/publication_types/2/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>2</title>
       <link>https://engineering.purdue.edu/ARTH/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>RGB Mapping: A Dynamic Approach for Flow Pattern Identification and Classification</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_kang_kim/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_kang_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Dimensional Drift Flux Analysis of Bubbly Flows in Horizontal and Inclined-Upward Orientations</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_kim1/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_kim1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of local parameters of inclined upward air–water bubbly two-phase flows in a round pipe</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_kim2/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_kim2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial area transport modeling of air–water bubbly two-phase flows in inclined orientations</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Novel Friction Factor Model for Wire-Wrapped Rod Bundles</title>
@@ -577,6 +609,14 @@
       <link>https://engineering.purdue.edu/ARTH/publication/1995_bashir_et_al/</link>
       <pubDate>Fri, 01 Sep 1995 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/publication/1995_bashir_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study and Model Assessment for Void Fraction in Different Orientations and Flow Regimes in Air-Water Two-Phase Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al1/</guid>
       <description></description>
     </item>
     

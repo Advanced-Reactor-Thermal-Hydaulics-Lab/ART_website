@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. 2024
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Nuclear Engineering
+    institution: Purdue University
+    year: 2024
   - course: M.S. in Nuclear Science and Technology
     institution: Shanghai Jiao Tong University
     year: 2019
@@ -63,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 Zhengting Quan is a Ph.D. student and Ross Fellow at Purdue University. He is currently working on experiemntal and numerical investigations of two-phase flows. 

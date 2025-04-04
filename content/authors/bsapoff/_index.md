@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
-Bradley Harrison is a Junior in Nuclear Engineering at Purdue University.
+Bradley Harrison is a Senior in Nuclear Engineering at Purdue University.

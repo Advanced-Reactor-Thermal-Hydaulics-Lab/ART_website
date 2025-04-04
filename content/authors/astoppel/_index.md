@@ -59,3 +59,6 @@ user_groups:
 ---
 
 Alicja Stoppel is an Undergraduate Student in Nuclear Engineering at Purdue University.
+
+#### Honors and Awards
+ - OECD/NEA Global Forum Rising Stars Workshop

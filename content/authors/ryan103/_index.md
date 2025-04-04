@@ -72,7 +72,7 @@ user_groups:
 - Alumni
 ---
 
-Drew is an Advanced Engineer at Bettis Atomic Power Laboratory.
+Drew is an Advanced Engineer at the Naval Nuclear Laboratories.
 
 Drew Ryan was a Ph.D. student and [Rickover Fellow](https://www.scuref.org/rfp/) at ART. His research includes two-phase flow experiments, two-phase instrumentation. 
 
