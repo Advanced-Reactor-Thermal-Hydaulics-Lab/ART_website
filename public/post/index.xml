@@ -5,7 +5,11 @@
     <link>https://engineering.purdue.edu/ARTH/post/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
+<<<<<<< Updated upstream
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 16:50:58 +0200</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Mar 2025 16:50:58 +0200</lastBuildDate>
+>>>>>>> Stashed changes
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Posts</title>
@@ -13,6 +17,7 @@
     </image>
     
     <item>
+<<<<<<< Updated upstream
       <title>Adam Dix successfully defends Ph.D. Dissertation</title>
       <link>https://engineering.purdue.edu/ARTH/post/dix-phd-defense/</link>
       <pubDate>Fri, 04 Apr 2025 16:50:58 +0200</pubDate>
@@ -23,6 +28,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> Stashed changes
       <title>SMR Feasibility Study Presented at Seminar</title>
       <link>https://engineering.purdue.edu/ARTH/post/smr-seminar/</link>
       <pubDate>Wed, 12 Mar 2025 16:50:58 +0200</pubDate>
