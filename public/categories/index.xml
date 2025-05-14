@@ -5,7 +5,11 @@
     <link>https://engineering.purdue.edu/ARTH/categories/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
+<<<<<<< Updated upstream
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 16:50:58 +0200</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Mar 2025 16:50:58 +0200</lastBuildDate>
+>>>>>>> Stashed changes
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Categories</title>
@@ -15,7 +19,11 @@
     <item>
       <title>News</title>
       <link>https://engineering.purdue.edu/ARTH/categories/news/</link>
+<<<<<<< Updated upstream
       <pubDate>Fri, 04 Apr 2025 16:50:58 +0200</pubDate>
+=======
+      <pubDate>Wed, 12 Mar 2025 16:50:58 +0200</pubDate>
+>>>>>>> Stashed changes
       <guid>https://engineering.purdue.edu/ARTH/categories/news/</guid>
       <description></description>
     </item>

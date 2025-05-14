@@ -5,7 +5,11 @@
     <link>https://engineering.purdue.edu/ARTH/tags/academic/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
+<<<<<<< Updated upstream
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 16:50:58 +0200</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Mar 2025 16:50:58 +0200</lastBuildDate>
+>>>>>>> Stashed changes
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Academic</title>
@@ -13,6 +17,7 @@
     </image>
     
     <item>
+<<<<<<< Updated upstream
       <title>Adam Dix successfully defends Ph.D. Dissertation</title>
       <link>https://engineering.purdue.edu/ARTH/post/dix-phd-defense/</link>
       <pubDate>Fri, 04 Apr 2025 16:50:58 +0200</pubDate>
@@ -20,6 +25,13 @@
       <description>&lt;p&gt;ART student Adam Dix has successfully defended his dissertation titled &amp;ldquo;Experiments and Modeling of Relative Velocity in Non-vertical Bubbly Two-phase Flows&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Adam will be moving on to the Naval Nuclear Laboratories. Congratulations Adam!&lt;/p&gt;
 </description>
+=======
+      <title>SMR Feasibility Study Presented at Seminar</title>
+      <link>https://engineering.purdue.edu/ARTH/post/smr-seminar/</link>
+      <pubDate>Wed, 12 Mar 2025 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/smr-seminar/</guid>
+      <description></description>
+>>>>>>> Stashed changes
     </item>
     
     <item>

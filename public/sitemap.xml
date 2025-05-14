@@ -70,6 +70,22 @@
   </url>
   
   <url>
+<<<<<<< Updated upstream
+=======
+    <loc>https://engineering.purdue.edu/ARTH/authors/adix/</loc>
+    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/bsapoff/</loc>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/pkilzer/</loc>
+  </url>
+  
+  <url>
+>>>>>>> Stashed changes
     <loc>https://engineering.purdue.edu/ARTH/authors/rhogg/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url>
@@ -250,31 +266,48 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/tags/academic/</loc>
+<<<<<<< Updated upstream
     <lastmod>2025-04-04T16:50:58+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/post/dix-phd-defense/</loc>
     <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+=======
+    <lastmod>2025-03-12T16:50:58+02:00</lastmod>
+>>>>>>> Stashed changes
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/</loc>
+<<<<<<< Updated upstream
     <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+=======
+    <lastmod>2025-03-12T16:50:58+02:00</lastmod>
+>>>>>>> Stashed changes
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/categories/</loc>
+<<<<<<< Updated upstream
     <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+=======
+    <lastmod>2025-03-12T16:50:58+02:00</lastmod>
+>>>>>>> Stashed changes
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/categories/news/</loc>
+<<<<<<< Updated upstream
     <lastmod>2025-04-04T16:50:58+02:00</lastmod>
+=======
+    <lastmod>2025-03-12T16:50:58+02:00</lastmod>
+>>>>>>> Stashed changes
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/post/</loc>
+<<<<<<< Updated upstream
     <lastmod>2025-04-04T16:50:58+02:00</lastmod>
   </url>
   
@@ -285,6 +318,8 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/tags/smr/</loc>
+=======
+>>>>>>> Stashed changes
     <lastmod>2025-03-12T16:50:58+02:00</lastmod>
   </url>
   
@@ -294,6 +329,14 @@
   </url>
   
   <url>
+<<<<<<< Updated upstream
+=======
+    <loc>https://engineering.purdue.edu/ARTH/tags/</loc>
+    <lastmod>2025-03-12T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> Stashed changes
     <loc>https://engineering.purdue.edu/ARTH/post/dix-seminar/</loc>
     <lastmod>2025-02-12T16:50:58+02:00</lastmod>
   </url>
