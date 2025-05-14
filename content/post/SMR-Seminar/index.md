@@ -28,3 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 # projects: []
 ---
+
+ART Member, Ryan Hogg helps present a summary of the IOED SMR feasibility study to the Purdue Nuclear Engineering Seminar class. 
+
+{{< figure src="group.jpg" title="The IOED-SMR Project research team, from left to right, Ryan Hogg, Jonah Lau, William Richards, and Hannah Pike" numbered="false" lightbox="true" >}}
