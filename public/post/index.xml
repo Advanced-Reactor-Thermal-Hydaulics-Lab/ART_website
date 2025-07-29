@@ -5,11 +5,7 @@
     <link>https://engineering.purdue.edu/ARTH/post/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-<<<<<<< Updated upstream
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 16:50:58 +0200</lastBuildDate>
-=======
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Mar 2025 16:50:58 +0200</lastBuildDate>
->>>>>>> Stashed changes
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 16:46:58 +0200</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Posts</title>
@@ -17,7 +13,15 @@
     </image>
     
     <item>
-<<<<<<< Updated upstream
+      <title>ART Lab Students Recognized at Awards Seminar</title>
+      <link>https://engineering.purdue.edu/ARTH/post/2025-awards-seminar/</link>
+      <pubDate>Wed, 07 May 2025 16:46:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/2025-awards-seminar/</guid>
+      <description>&lt;p&gt;ART Lab students were recognized for their achievements during the School of Nuclear Engineering awards and recognition seminar on April 30th. David Kang was awarded the Early Career Graduate award, and Alicja Stoppel was awarded the Outstanding Senior award. Congratulations to them both!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Adam Dix successfully defends Ph.D. Dissertation</title>
       <link>https://engineering.purdue.edu/ARTH/post/dix-phd-defense/</link>
       <pubDate>Fri, 04 Apr 2025 16:50:58 +0200</pubDate>
@@ -28,8 +32,6 @@
     </item>
     
     <item>
-=======
->>>>>>> Stashed changes
       <title>SMR Feasibility Study Presented at Seminar</title>
       <link>https://engineering.purdue.edu/ARTH/post/smr-seminar/</link>
       <pubDate>Wed, 12 Mar 2025 16:50:58 +0200</pubDate>
