@@ -55,10 +55,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Graduate Students
 ---
 
-Alicja Stoppel is an Undergraduate Student in Nuclear Engineering at Purdue University.
+Alicja Stoppel is an graduate student in Nuclear Engineering at Purdue University.
 
 #### Honors and Awards
  - OECD/NEA Global Forum Rising Stars Workshop
