@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Alicja Stoppel
-weight: 30
+weight: 2
 # Username (this should match the folder name)
 authors:
 - astoppel
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:

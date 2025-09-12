@@ -1,7 +1,7 @@
 ---
 # Display name
 name: David Kang
-weight: 99
+weight: 1
 
 # Username (this should match the folder name)
 authors:

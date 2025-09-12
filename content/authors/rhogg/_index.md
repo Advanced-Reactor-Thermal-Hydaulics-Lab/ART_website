@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Ryan Hogg
-weight: 30
+weight: 4
 # Username (this should match the folder name)
 authors:
 - rhogg
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: M.S.N.E. Student
 
 # Organizations/Affiliations
 organizations:

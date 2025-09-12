@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Preston Kilzer
-weight: 30
+weight: 3
 # Username (this should match the folder name)
 authors:
 - pkilzer
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Graduate Students
 ---
 
-Preston Kilzer is a senior in Nuclear Engineering at Purdue University.
+Preston Kilzer is a graduate student in Nuclear Engineering at Purdue University.
