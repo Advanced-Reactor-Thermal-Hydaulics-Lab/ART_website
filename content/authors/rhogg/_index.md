@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Ryan Hogg
-weight: 4
+weight: 41
 # Username (this should match the folder name)
 authors:
 - rhogg
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S.N.E. Student
+role: M.S.N.E. 2025
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
-Ryan Hogg is a Graduate Student in Nuclear Engineering at Purdue University. He commissioned as a Navy Pilot from the US Naval Academy in Annapolis, MD, and graduated with a B.S. In Mechanical Engineering in 2024.
+Ryan Hogg is commissioned as a Navy Pilot. He graduated from the US Naval Academy in Annapolis, MD with a B.S. In Mechanical Engineering in 2024. He earned his M.S. in Nuclear Engineering from Purdue University in 2025. 

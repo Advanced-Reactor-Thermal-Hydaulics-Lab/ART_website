@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Drew Ryan
-weight: 9
+weight: 8
 
 # Username (this should match the folder name)
 authors:

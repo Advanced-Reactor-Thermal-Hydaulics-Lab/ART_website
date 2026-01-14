@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Adam Dix
-weight: 7
+weight: 6
 # Username (this should match the folder name)
 authors:
 - adix

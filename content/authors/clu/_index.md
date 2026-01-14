@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Cihang Lu
-weight: 41
+weight: 9
 # Username (this should match the folder name)
 authors:
 - clu
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Ph.D. 2019
 
 # Organizations/Affiliations
 organizations:

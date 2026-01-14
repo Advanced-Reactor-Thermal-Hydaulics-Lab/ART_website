@@ -17,12 +17,7 @@
   </url>
   
   <url>
-    <loc>https://engineering.purdue.edu/ARTH/authors/pkilzer/</loc>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/authors/rhogg/</loc>
-    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <loc>https://engineering.purdue.edu/ARTH/authors/swearinc/</loc>
   </url>
   
   <url>
@@ -42,6 +37,11 @@
   <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/ryan103/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/clu/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -114,12 +114,16 @@
   </url>
   
   <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/pkilzer/</loc>
+  </url>
+  
+  <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/sbeaumont/</loc>
   </url>
   
   <url>
-    <loc>https://engineering.purdue.edu/ARTH/authors/clu/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>https://engineering.purdue.edu/ARTH/authors/rhogg/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -185,6 +189,10 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/authors/ochapouly/</loc>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/authors/middlel/</loc>
   </url>
   
   <url>
@@ -262,36 +270,41 @@
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/tags/academic/</loc>
-    <lastmod>2025-05-07T16:46:58+02:00</lastmod>
+    <lastmod>2025-12-13T16:50:58+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/</loc>
-    <lastmod>2025-05-07T16:46:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering.purdue.edu/ARTH/post/2025-awards-seminar/</loc>
-    <lastmod>2025-05-07T16:46:58+02:00</lastmod>
+    <lastmod>2025-12-13T16:50:58+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/categories/</loc>
-    <lastmod>2025-05-07T16:46:58+02:00</lastmod>
+    <lastmod>2025-12-13T16:50:58+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/categories/news/</loc>
-    <lastmod>2025-05-07T16:46:58+02:00</lastmod>
+    <lastmod>2025-12-13T16:50:58+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/post/</loc>
-    <lastmod>2025-05-07T16:46:58+02:00</lastmod>
+    <lastmod>2025-12-13T16:50:58+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://engineering.purdue.edu/ARTH/tags/</loc>
+    <lastmod>2025-12-13T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/post/quan-phd-defense/</loc>
+    <lastmod>2025-12-13T16:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://engineering.purdue.edu/ARTH/post/2025-awards-seminar/</loc>
     <lastmod>2025-05-07T16:46:58+02:00</lastmod>
   </url>
   

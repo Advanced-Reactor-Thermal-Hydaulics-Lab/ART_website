@@ -22,6 +22,9 @@ organizations:
 
 interests:
 - Reactor Thermal-hydraulics
+- Experimental Two-phase Flow
+- Interfacial Area Transport
+- Two-phase Pressure Drop
 
 education:
   courses:
@@ -61,4 +64,5 @@ user_groups:
 Alicja Stoppel is an graduate student in Nuclear Engineering at Purdue University.
 
 #### Honors and Awards
- - OECD/NEA Global Forum Rising Stars Workshop
+ - UNLP Fellowship, awarded 2025
+ - OECD/NEA Global Forum Rising Star
