@@ -61,7 +61,7 @@ user_groups:
 - Graduate Students
 ---
 
-Alicja Stoppel is an graduate student in Nuclear Engineering at Purdue University.
+Alicja Stoppel is an graduate student in Nuclear Engineering at Purdue University and UNLP Fellow. She earned her B.S. in Nuclear Engineering from Purdue University in May 2025. 
 
 #### Honors and Awards
  - UNLP Fellowship, awarded 2025

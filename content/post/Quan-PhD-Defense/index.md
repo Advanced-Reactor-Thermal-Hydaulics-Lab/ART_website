@@ -7,7 +7,7 @@ tags:
 - Academic
 categories:
 - News
-date: "2025-12-13T16:50:58+02:00"
+date: "2024-12-13T16:50:58+02:00"
 featured: false
 draft: false
 

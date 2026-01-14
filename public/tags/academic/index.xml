@@ -5,7 +5,7 @@
     <link>https://engineering.purdue.edu/ARTH/tags/academic/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Dec 2025 16:50:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 16:50:58 +0200</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>Academic</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Zhengting Quan successfully defends Ph.D. Dissertation</title>
-      <link>https://engineering.purdue.edu/ARTH/post/quan-phd-defense/</link>
-      <pubDate>Sat, 13 Dec 2025 16:50:58 +0200</pubDate>
-      <guid>https://engineering.purdue.edu/ARTH/post/quan-phd-defense/</guid>
-      <description>&lt;p&gt;ART student Zhengting Quan has successfully defended his Ph.D. Dissertation titled &amp;ldquo;Study on the Geometric Effects of Wire-wrapped Rod Bundle and U-bend on Single-phase and Two-phase Flow Phenomena&amp;rdquo;.&lt;/p&gt;
+      <title>Alicja Stoppel earns DOE University Nuclear Leadership Program Fellowship</title>
+      <link>https://engineering.purdue.edu/ARTH/post/stoppel-unlp/</link>
+      <pubDate>Tue, 05 Aug 2025 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/stoppel-unlp/</guid>
+      <description>&lt;p&gt;Alicja Stoppel, a masters student in the School of Nuclear Engineering at Purdue University, has been awarded a University Nuclear Leadership Program (UNLP) Fellowship from the the U.S. Department of Energy (DOE).The fellowship is awarded to students pursuing nuclear energy-related disciplines at universities across the country. Through this program the recipient will receive up to $56,000 a year over the next three years to help pay for their graduate studies and research, plus $7,000 toward a summer internship at a U.S. national laboratory or other approved facility to strengthen the ties between students and the Department’s nuclear energy research programs. The student will study a breadth of critical nuclear energy issues, from fuel cycle sustainability to reactor efficiency and design.&lt;/p&gt;
+&lt;p&gt;Alicja received her bachelors in Nuclear Engineering from Purdue University May 2025. Alicja is excited to get her M.S. at Purdue working on the Purdue Inclinable Test Facility, through the generous support of the DOE’ Integrated University Partnership program.&lt;/p&gt;
 </description>
     </item>
     
@@ -47,6 +48,15 @@
       <guid>https://engineering.purdue.edu/ARTH/post/dix-seminar/</guid>
       <description>&lt;p&gt;Adam Dix is a Ph.D. Candidate in Nuclear Engineering at Purdue University. He earned both his M.S. and B.S. in Nuclear Engineering from Purdue in 2020 and 2022 respectively. Mr. Dix’s research focuses on nuclear reactor thermal-hydraulics, specifically better understanding two-phase flow hydrodynamics through experiments and simulations. He is also interested in liquid metal thermal-hydraulics, including the pressure drop in wire-wrapped rod bundles. Mr. Dix’s work has won first place in the Innovations in Nuclear Student Competition from the US Department of Energy, and the NURETH-19 movie competition.&lt;/p&gt;
 &lt;p&gt;Two-phase flows have many important industrial applications, including in nuclear reactor coolant systems. Due to the density difference between gas and liquid, buoyancy effects can have a significant impact on two-phase parameters, and thus the orientation of the flow is a major factor impacting system performance and safety. Despite this, most two-phase experiments and models have focused on vertical upwards flows. There are few experiments in literature that measured both local liquid and gas velocity profiles in non-vertical, which are key to understanding and modeling the relative velocity. Twelve fully developed horizontal bubbly flow conditions are measured and presented in the current work, with the trends in relative velocity analyzed. The relative velocity is negative throughout the pipe cross-section when in a horizontal orientation and becomes more negative with increasing void fraction. With this newly established database, a model is then proposed to predict the relative velocity in horizontal bubbly flows, accounting for bubble wake interactions. The model is able to predict the void-weighted area-average velocity within 10%, and the local relative velocity with an average absolute percent difference of 20%.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zhengting Quan successfully defends Ph.D. Dissertation</title>
+      <link>https://engineering.purdue.edu/ARTH/post/quan-phd-defense/</link>
+      <pubDate>Fri, 13 Dec 2024 16:50:58 +0200</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/post/quan-phd-defense/</guid>
+      <description>&lt;p&gt;ART student Zhengting Quan has successfully defended his Ph.D. Dissertation titled &amp;ldquo;Study on the Geometric Effects of Wire-wrapped Rod Bundle and U-bend on Single-phase and Two-phase Flow Phenomena&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
