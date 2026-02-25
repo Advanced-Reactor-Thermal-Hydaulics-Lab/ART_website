@@ -5,12 +5,28 @@
     <link>https://engineering.purdue.edu/ARTH/authors/quanz/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/authors/quanz/index.xml" rel="self" type="application/rss+xml" />
     <description>ART</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>ART</title>
       <link>https://engineering.purdue.edu/ARTH/authors/quanz/</link>
     </image>
+    
+    <item>
+      <title>Study of One-dimensional Two-phase Flow through an Inverted U-bend</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2025_stoppel_et_al/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2025_stoppel_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial Area Transport Modeling of Air-water Bubbly Two-phase Flows in Inclined Orientations</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al2/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Separate Effects of Curvature on Two-Phase Flow</title>
@@ -30,6 +46,14 @@
       <guid>https://engineering.purdue.edu/ARTH/project/smr/</guid>
       <description>&lt;p&gt;Purdue University has been selected by the Indiana Office of Energy Development (IOED) to research small modular nuclear reactor (SMR) technology and analyze the potential impacts should the technology be deployed in Indiana. The Advanced Reactor Thermal-hydraulics Laboratory, led by Dr. Seungjin Kim, will spearhead this effort. This partnership comes following Purdue’s selection as the successful respondent to IOED’s Request for Proposals for an Indiana-focused SMR study.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Experimental Study and Model Assessment for Void Fraction in Different Orientation and Flow Regimes in Air-water Two-phase Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al3/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al3/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -261,6 +285,14 @@
       <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study of Two-phase Flow Pressure Drop across a U-bend and Evaluation of Existing Correlations</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2026_stoppel_et_al/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2026_stoppel_et_al/</guid>
       <description></description>
     </item>
     

@@ -69,7 +69,7 @@ user_groups:
 - Graduate Students
 ---
 
-David Kang is a Rickover Fellow in Nuclear Engineering at Purdue University. He graduated from Purdue University with a B.S. in 2021 and a M.S. in 2023, both in Nuclear Engineering.
+David Kang is a Rickover Fellow in Nuclear Engineering at Purdue University and an integral member of the ART Lab. He graduated from Purdue University with a B.S. in 2021 and a M.S. in 2023, both in Nuclear Engineering.
 
 #### Honors and Awards
  - NRC Fellowship, 2021-2023

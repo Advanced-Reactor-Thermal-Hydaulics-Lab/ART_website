@@ -5,12 +5,44 @@
     <link>https://engineering.purdue.edu/ARTH/authors/adix/</link>
       <atom:link href="https://engineering.purdue.edu/ARTH/authors/adix/index.xml" rel="self" type="application/rss+xml" />
     <description>ART</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://engineering.purdue.edu/ARTH/img/thumbnail_bettis_churn.jpg</url>
       <title>ART</title>
       <link>https://engineering.purdue.edu/ARTH/authors/adix/</link>
     </image>
+    
+    <item>
+      <title>Relative Velocity in Horizontal Bubbly Two-Phase Flows: Experiments and Modeling</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2026_dix_kim1/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2026_dix_kim1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of Relative Velocity in Non-vertical Air-water Bubbly Two-phase Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2026_dix_kim/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2026_dix_kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial Area Transport Modeling of Air-water Bubbly Two-phase Flows in Inclined Orientations</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al2/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study and Model Assessment for Void Fraction in Different Orientation and Flow Regimes in Air-water Two-phase Flows</title>
+      <link>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al3/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://engineering.purdue.edu/ARTH/publication/c2024_ryan_et_al3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interfacial area transport modeling of air–water bubbly two-phase flows in inclined orientations</title>

@@ -43,9 +43,12 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=rQbVFUoAAAAJ&gmla=APjjwub6rdljRds_oJtEfTBSfqYeffOSfJ7H0Uh0TOHadz-evK-PTc9D0K8Z4QlT9j0hAQwHvx9Uf75_0Z2NE58dTSe4JTh3QceWYs57cQ
+- icon: cv
+  icon_pack: ai
+  link: files/astoppel_CV.pdf
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
